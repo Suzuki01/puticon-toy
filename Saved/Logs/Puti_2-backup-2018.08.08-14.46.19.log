@@ -1,0 +1,1056 @@
+﻿Log file open, 08/08/18 14:38:21
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Puti
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.307113
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.114s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4233996
+LogInit: Engine Version: 4.20.1-4233996+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Jul 26 2018 10:07:30
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.08.08-05.38.22:105][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.08-05.38.22:105][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.08.08-05.38.22:120][  0]LogHAL: Display: Platform has ~ 16 GB [17046663168 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.08.08-05.38.22:120][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.08.08-05.38.22:120][  0]LogInit: Going up to parent DeviceProfile []
+[2018.08.08-05.38.22:120][  0]LogInit: Computer: DESKTOP-QTD9RPC
+[2018.08.08-05.38.22:120][  0]LogInit: User: oreng
+[2018.08.08-05.38.22:120][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.08.08-05.38.22:120][  0]LogInit: High frequency timer resolution =2.742187 MHz
+[2018.08.08-05.38.22:121][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.08.08-05.38.22:121][  0]LogMemory: Platform Memory Stats for Windows
+[2018.08.08-05.38.22:121][  0]LogMemory: Process Physical Memory: 102.35 MB used, 102.35 MB peak
+[2018.08.08-05.38.22:121][  0]LogMemory: Process Virtual Memory: 89.84 MB used, 89.84 MB peak
+[2018.08.08-05.38.22:121][  0]LogMemory: Physical Memory: 10622.05 MB used,  5634.91 MB free, 16256.96 MB total
+[2018.08.08-05.38.22:121][  0]LogMemory: Virtual Memory: 4637.77 MB used,  5634.91 MB free, 134217728.00 MB total
+[2018.08.08-05.38.22:470][  0]LogInit: Using OS detected language (ja-JP).
+[2018.08.08-05.38.22:470][  0]LogInit: Using OS detected locale (ja-JP).
+[2018.08.08-05.38.22:470][  0]LogTextLocalizationManager: No specific localization for 'ja-JP' exists, so the 'ja' localization will be used.
+[2018.08.08-05.38.22:795][  0]LogStreaming: Display: Took  0.325s to InitEngineTextLocalization.
+[2018.08.08-05.38.22:795][  0]LogInit: Setting process to per monitor DPI aware
+[2018.08.08-05.38.22:845][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.08.08-05.38.22:846][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.08.08-05.38.23:086][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.08.08-05.38.23:086][  0]LogD3D11RHI: D3D11 adapters:
+[2018.08.08-05.38.23:173][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2018.08.08-05.38.23:173][  0]LogD3D11RHI:       6061/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.08.08-05.38.23:192][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.08.08-05.38.23:193][  0]LogD3D11RHI:       128/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.08.08-05.38.23:195][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.08.08-05.38.23:195][  0]LogD3D11RHI:       0/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.08.08-05.38.23:195][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.08.08-05.38.23:232][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.08.08-05.38.23:232][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2018.08.08-05.38.23:233][  0]LogWindows: EnumDisplayDevices:
+[2018.08.08-05.38.23:233][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.08.08-05.38.23:233][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.08.08-05.38.23:233][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.08.08-05.38.23:234][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.08.08-05.38.23:234][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.08.08-05.38.23:234][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.08.08-05.38.23:234][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.08.08-05.38.23:235][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2018.08.08-05.38.23:235][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2018.08.08-05.38.23:235][  0]LogD3D11RHI:   Driver Version: 387.99 (internal:23.21.13.8799, unified:387.99)
+[2018.08.08-05.38.23:235][  0]LogD3D11RHI:      Driver Date: 10-11-2017
+[2018.08.08-05.38.23:235][  0]LogRHI: Texture pool is 4242 MB (70% of 6061 MB)
+[2018.08.08-05.38.23:268][  0]LogD3D11RHI: Async texture creation enabled
+[2018.08.08-05.38.23:283][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.08.08-05.38.23:284][  0]LogShaderCompilers: Guid format shader working directory is -15 characters bigger than the processId version (../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Intermediate/Shaders/WorkingDirectory/28760/).
+[2018.08.08-05.38.23:284][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/oreng/AppData/Local/Temp/UnrealShaderWorkingDir/44F1AA4B40CA3C65E591E39AE30AD8BA/'.
+[2018.08.08-05.38.23:500][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.08.08-05.38.23:516][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.08.08-05.38.23:530][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.08.08-05.38.23:544][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.08.08-05.38.23:558][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.08.08-05.38.23:572][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.08.08-05.38.23:587][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.08.08-05.38.23:601][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.08.08-05.38.23:608][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.08.08-05.38.23:698][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.08-05.38.23:698][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.08-05.38.23:698][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.08-05.38.23:698][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.08-05.38.23:698][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.08-05.38.23:698][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.08-05.38.23:698][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.08-05.38.23:698][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.08-05.38.23:698][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.08-05.38.23:698][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.08-05.38.23:698][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.08-05.38.23:698][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.08-05.38.23:698][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.08-05.38.23:698][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.08-05.38.23:698][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.08-05.38.23:698][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.08-05.38.23:698][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.08-05.38.23:698][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.08-05.38.23:699][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.08.08-05.38.23:762][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.08.08-05.38.23:762][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.08.08-05.38.23:788][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.08.08-05.38.23:788][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.08.08-05.38.23:800][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.08.08-05.38.23:814][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.08.08-05.38.23:826][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.08.08-05.38.23:840][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.08.08-05.38.23:851][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.08.08-05.38.23:851][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.08.08-05.38.23:910][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.08.08-05.38.23:910][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.08.08-05.38.23:910][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.08.08-05.38.24:699][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.08.08-05.38.24:764][  0]LogDerivedDataCache: Loaded boot cache 0.06s 83MB C:/Users/oreng/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.08.08-05.38.24:764][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/oreng/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.08.08-05.38.24:764][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/oreng/Documents/Unreal Projects/Puti/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.08.08-05.38.24:764][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.08.08-05.38.24:764][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/oreng/Documents/Unreal Projects/Puti/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.08.08-05.38.24:764][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.08.08-05.38.24:779][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.08.08-05.38.24:791][  0]LogDerivedDataCache: Using Local data cache path C:/Users/oreng/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.08.08-05.38.24:791][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.08.08-05.38.24:791][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.08.08-05.38.24:810][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.08.08-05.38.24:811][  0]LogSlate: Using FreeType 2.6.0
+[2018.08.08-05.38.24:811][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.08-05.38.24:894][  0]LogAssetRegistry: FAssetRegistry took 0.0283 seconds to start up
+[2018.08.08-05.38.25:233][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.08-05.38.25:368][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.08.08-05.38.25:372][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.08.08-05.38.25:372][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.08.08-05.38.25:372][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.08.08-05.38.25:372][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.08.08-05.38.25:392][  0]LogNetVersion: Puti 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2802601270)
+[2018.08.08-05.38.25:992][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.114020 seconds
+[2018.08.08-05.38.25:999][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.08.08-05.38.25:999][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.08.08-05.38.25:999][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.08.08-05.38.26:875][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.08.08-05.38.26:888][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.08.08-05.38.27:034][  0]SourceControl: ソースコントロールは無効です
+[2018.08.08-05.38.27:034][  0]SourceControl: ソースコントロールは無効です
+[2018.08.08-05.38.27:036][  0]SourceControl: ソースコントロールは無効です
+[2018.08.08-05.38.27:037][  0]SourceControl: ソースコントロールは無効です
+[2018.08.08-05.38.27:202][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.08.08-05.38.27:257][  0]LogOcInput: OculusInput pre-init called
+[2018.08.08-05.38.27:322][  0]LogEngine: Initializing Engine...
+[2018.08.08-05.38.27:322][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.08.08-05.38.27:324][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.08.08-05.38.27:324][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.08-05.38.27:324][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.08.08-05.38.27:324][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.08-05.38.27:634][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.08.08-05.38.27:648][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.08.08-05.38.27:658][  0]LogInit: XAudio2 using 'スピーカー / ヘッドホン (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.08.08-05.38.28:449][  0]LogInit: FAudioDevice initialized.
+[2018.08.08-05.38.28:449][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.08.08-05.38.28:568][  0]LogDerivedDataCache: Saved boot cache 0.12s 71MB C:/Users/oreng/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.08.08-05.38.28:571][  0]LogInit: Texture streaming: Enabled
+[2018.08.08-05.38.28:587][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.08.08-05.38.28:604][  0]LogInit: Transaction tracking system initialized
+[2018.08.08-05.38.28:626][  0]BlueprintLog: New page: エディタの読み込み
+[2018.08.08-05.38.28:715][  0]LocalizationService: ローカライズのサービスが無効になりました
+[2018.08.08-05.38.28:974][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.08.08-05.38.28:974][  0]LogCook: Display: Mobile HDR setting 1
+[2018.08.08-05.38.28:974][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.08.08-05.38.28:974][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.08.08-05.38.28:974][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.08-05.38.28:974][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.08.08-05.38.28:974][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.08-05.38.29:095][  0]LogFileCache: Scanning file cache for directory 'C:/Users/oreng/Documents/Unreal Projects/Puti/Content/' took 0.02s
+[2018.08.08-05.38.29:095][  0]SourceControl: ソースコントロールは無効です
+[2018.08.08-05.38.29:095][  0]Cmd: MAP LOAD FILE="../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Content/ThirdPersonBP/Maps/Room.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.08-05.38.29:096][  0]LightingResults: New page: ライティングのビルド
+[2018.08.08-05.38.29:099][  0]MapCheck: New page: マップをチェック
+[2018.08.08-05.38.29:099][  0]LightingResults: New page: <何も選択されていません>
+[2018.08.08-05.38.30:318][  0]LogAIModule: Creating AISystem for world Room
+[2018.08.08-05.38.30:341][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.08-05.38.30:370][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.08-05.38.30:500][  0]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 129.89ミリ秒かかりました。
+[2018.08.08-05.38.30:500][  0]LogFileHelpers: Loading map 'Room' took 1.404
+[2018.08.08-05.38.30:633][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.08-05.38.30:643][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.08-05.38.30:651][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.08-05.38.30:658][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.08-05.38.30:747][  0]LogCollectionManager: Loaded 0 collections in 0.001715 seconds
+[2018.08.08-05.38.30:789][  0]LogFileCache: Scanning file cache for directory 'C:/Users/oreng/Documents/Unreal Projects/Puti/Saved/Collections/' took 0.01s
+[2018.08.08-05.38.30:789][  0]LogFileCache: Scanning file cache for directory 'C:/Users/oreng/Documents/Unreal Projects/Puti/Content/Developers/oreng/Collections/' took 0.01s
+[2018.08.08-05.38.30:789][  0]LogFileCache: Scanning file cache for directory 'C:/Users/oreng/Documents/Unreal Projects/Puti/Content/Collections/' took 0.01s
+[2018.08.08-05.38.30:789][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.08.08-05.38.30:799][  0]LogContentBrowser: Native class hierarchy populated in 0.0099 seconds. Added 2575 classes and 608 folders.
+[2018.08.08-05.38.30:807][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.08.08-05.38.30:850][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.08.08-05.38.30:862][  0]LogSlate: Took 0.000262 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.08.08-05.38.30:871][  0]LogSlate: Took 0.000539 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Regular.otf' (707K)
+[2018.08.08-05.38.32:586][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.08.08-05.38.32:620][  0]LogSlate: Took 0.000564 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Bold.otf' (698K)
+[2018.08.08-05.38.32:621][  0]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.08.08-05.38.32:626][  0]LogSlate: Took 0.000259 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.08.08-05.38.32:749][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Puti
+[2018.08.08-05.38.32:749][  0]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.08.08-05.38.32:749][  0]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.20
+[2018.08.08-05.38.32:749][  0]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.08.08-05.38.32:749][  0]LogTemp: BranchPath = DESKTOP-QTD9RPC/C/Program Files/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = DESKTOP-QTD9RPC/C/Program Files/Epic Games/UE_4.20/Engine/Binaries
+[2018.08.08-05.38.32:749][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\oreng\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.08.08-05.38.32:749][  0]LogRenderer: Reallocating scene render targets to support 668x348 Format 10 NumSamples 1 (Frame:1).
+[2018.08.08-05.38.32:909][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.08.08-05.38.32:909][  0]LogLoad: (Engine Initialization) Total time: 12.54 seconds
+[2018.08.08-05.38.32:909][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.08.08-05.38.32:935][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft IME).
+[2018.08.08-05.38.32:968][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2018.08.08-05.38.33:008][  0]LogSlate: Took 0.000265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.08-05.38.33:037][  1]LogAssetRegistry: Asset discovery search completed in 8.1664 seconds
+[2018.08.08-05.38.33:040][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.08.08-05.38.33:040][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000093 seconds (updated 0 objects)
+[2018.08.08-05.38.37:746][280]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.08-05.39.07:298][ 51]LogSlate: Took 0.000243 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.08-05.39.07:299][ 51]LogSlate: Took 0.000273 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Light.otf' (713K)
+[2018.08.08-05.39.07:312][ 51]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.08.08-05.39.07:818][ 51]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2018.08.08-05.39.09:193][ 51]LogSlate: Took 0.000545 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-SemiBold.otf' (703K)
+[2018.08.08-05.39.09:193][ 51]LogSlate: Took 0.000121 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.08.08-05.39.09:438][ 52]LogSlate: Took 0.000266 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.08.08-05.39.11:751][184]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2018.08.08-05.39.34:840][563]LogHttp: Warning: 0000021535CA8180: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2018.08.08-05.39.34:840][563]LogHttp: Warning: 0000021535CA8180: libcurl info message cache 0 (  Trying 35.168.211.70...)
+[2018.08.08-05.39.34:840][563]LogHttp: Warning: 0000021535CA8180: libcurl info message cache 1 (TCP_NODELAY set)
+[2018.08.08-05.39.34:840][563]LogHttp: Warning: 0000021535CA8180: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (35.168.211.70) port 443 (#0))
+[2018.08.08-05.39.34:840][563]LogHttp: Warning: 0000021535CA8180: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2018.08.08-05.39.34:840][563]LogHttp: Warning: 0000021535CA8180: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.08.08-05.39.34:840][563]LogHttp: Warning: 0000021535CA8180: libcurl info message cache 5 (TLSv1.2 (OUT), TLS header, Certificate Status (22):)
+[2018.08.08-05.39.34:840][563]LogHttp: Warning: 0000021535CA8180: libcurl info message cache 6 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.08.08-05.39.34:840][563]LogHttp: Warning: 0000021535CA8180: libcurl info message cache 7 (TLSv1.2 (IN), TLS handshake, Server hello (2):)
+[2018.08.08-05.39.34:840][563]LogHttp: Warning: 0000021535CA8180: libcurl info message cache 8 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2018.08.08-05.39.34:840][563]LogHttp: Warning: 0000021535CA8180: libcurl info message cache 9 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2018.08.08-05.39.34:840][563]LogHttp: Warning: 0000021535CA8180: libcurl info message cache 10 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2018.08.08-05.39.34:840][563]LogHttp: Warning: 0000021535CA8180: libcurl info message cache 11 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2018.08.08-05.39.34:840][563]LogHttp: Warning: 0000021535CA8180: libcurl info message cache 12 (TLSv1.2 (OUT), TLS change cipher, Client hello (1):)
+[2018.08.08-05.39.34:840][563]LogHttp: Warning: 0000021535CA8180: libcurl info message cache 13 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2018.08.08-05.39.34:840][563]LogHttp: Warning: 0000021535CA8180: libcurl info message cache 14 (TLSv1.2 (IN), TLS change cipher, Client hello (1):)
+[2018.08.08-05.39.34:840][563]LogHttp: Warning: 0000021535CA8180: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2018.08.08-05.39.34:840][563]LogHttp: Warning: 0000021535CA8180: libcurl info message cache 16 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2018.08.08-05.39.34:840][563]LogHttp: Warning: 0000021535CA8180: libcurl info message cache 17 (ALPN, server did not agree to a protocol)
+[2018.08.08-05.39.34:840][563]LogHttp: Warning: 0000021535CA8180: libcurl info message cache 18 (Server certificate:)
+[2018.08.08-05.39.34:840][563]LogHttp: Warning: 0000021535CA8180: libcurl info message cache 19 ( subject: CN=*.ol.epicgames.com)
+[2018.08.08-05.39.34:840][563]LogHttp: Warning: 0000021535CA8180: libcurl info message cache 20 ( start date: Mar 12 00:00:00 2018 GMT)
+[2018.08.08-05.39.34:840][563]LogHttp: Warning: 0000021535CA8180: libcurl info message cache 21 ( expire date: Apr 12 12:00:00 2019 GMT)
+[2018.08.08-05.39.34:840][563]LogHttp: Warning: 0000021535CA8180: libcurl info message cache 22 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "*.ol.epicgames.com")
+[2018.08.08-05.39.34:840][563]LogHttp: Warning: 0000021535CA8180: libcurl info message cache 23 ( issuer: C=US; O=Amazon; OU=Server CA 1B; CN=Amazon)
+[2018.08.08-05.39.34:840][563]LogHttp: Warning: 0000021535CA8180: libcurl info message cache 24 ( SSL certificate verify ok.)
+[2018.08.08-05.39.34:840][563]LogHttp: Warning: 0000021535CA8180: libcurl info message cache 25 (upload completely sent off: 3222 out of 3222 bytes)
+[2018.08.08-05.39.34:840][563]LogHttp: Warning: 0000021535CA8180: libcurl info message cache 26 (TLSv1.2 (IN), TLS alert, Server hello (2):)
+[2018.08.08-05.39.34:840][563]LogHttp: Warning: 0000021535CA8180: libcurl info message cache 27 (OpenSSL SSL_read: error:140943FC:SSL routines:ssl3_read_bytes:sslv3 alert bad record mac, errno 0)
+[2018.08.08-05.39.34:840][563]LogHttp: Warning: 0000021535CA8180: libcurl info message cache 28 (Closing connection 0)
+[2018.08.08-05.39.34:840][563]LogHttp: Warning: 0000021535CA8180: libcurl info message cache 29 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.08.08-05.39.59:506][ 33]LogTemp: Repeating last play command: 選択ビューポート
+[2018.08.08-05.39.59:536][ 33]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Room.Room:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Room.Room:PersistentLevel.Room' with GeneratedClass '/Game/ThirdPersonBP/Maps/Room.Room_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Room.Room:PersistentLevel.Room'
+[2018.08.08-05.39.59:537][ 33]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.08-05.39.59:549][ 33]PIE: New page: PIEセッション: Room (2018/08/08 23:39:59)
+[2018.08.08-05.39.59:549][ 33]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Room
+[2018.08.08-05.39.59:591][ 33]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041316s)
+[2018.08.08-05.39.59:592][ 33]LogAIModule: Creating AISystem for world Room
+[2018.08.08-05.39.59:592][ 33]LogPlayLevel: PIE: World Init took: (0.000995s)
+[2018.08.08-05.39.59:592][ 33]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Room.Room to /Game/ThirdPersonBP/Maps/UEDPIE_0_Room.Room (0.042641s)
+[2018.08.08-05.39.59:641][ 33]LogInit: XAudio2 using 'スピーカー / ヘッドホン (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.08.08-05.39.59:721][ 33]LogInit: FAudioDevice initialized.
+[2018.08.08-05.39.59:731][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.08-05.40.00:114][ 33]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.08-05.40.00:127][ 33]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Room.Room up for play (max tick rate 60) at 2018.08.08-14.40.00
+[2018.08.08-05.40.00:128][ 33]LogWorld: Bringing up level for play took: 0.012827
+[2018.08.08-05.40.00:147][ 33]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2018.08.08-05.40.00:147][ 33]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.08.08-05.40.00:147][ 33]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.08.08-05.40.00:147][ 33]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.08.08-05.40.00:150][ 33]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.08.08-05.40.00:158][ 33]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_Room 1.535のプレイ イン エディタの開始時間
+[2018.08.08-05.40.00:158][ 33]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Room.Room:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Room.Room:PersistentLevel.Room' with GeneratedClass '/Game/ThirdPersonBP/Maps/Room.Room_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Room.Room:PersistentLevel.Room'
+[2018.08.08-05.40.00:190][ 33]LogRenderer: Reallocating scene render targets to support 1288x740 Format 10 NumSamples 1 (Frame:1).
+[2018.08.08-05.40.51:120][ 71]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Room.Room:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Room.Room:PersistentLevel.Room' with GeneratedClass '/Game/ThirdPersonBP/Maps/Room.Room_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Room.Room:PersistentLevel.Room'
+[2018.08.08-05.40.51:120][ 71]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.08-05.40.51:148][ 71]LogSlate: Window 'Puti ゲームプレビュー Standalone (64-ビット/PCD3D_SM5)' being destroyed
+[2018.08.08-05.40.51:189][ 71]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.08-05.40.51:189][ 71]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Room.Room:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Room.Room:PersistentLevel.Room' with GeneratedClass '/Game/ThirdPersonBP/Maps/Room.Room_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Room.Room:PersistentLevel.Room'
+[2018.08.08-05.40.51:255][ 72]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2018.08.08-05.41.07:876][ 68]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.08-05.41.12:164][286]LogSavePackage: Moving '../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Saved/Room2FBAC7DB4F32B103376A8299DDF13AA7.tmp' to '../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Content/ThirdPersonBP/Maps/Room.umap'
+[2018.08.08-05.41.12:216][286]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Room_BuiltData" FILE="../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Content/ThirdPersonBP/Maps/Room_BuiltData.uasset" SILENT=true
+[2018.08.08-05.41.12:974][286]LogSavePackage: Moving '../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Saved/Room_BuiltDataA92BF9054938F8DF9619E1956054FA1C.tmp' to '../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Content/ThirdPersonBP/Maps/Room_BuiltData.uasset'
+[2018.08.08-05.41.35:674][647]LogHttp: Warning: 0000021518B59440: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2018.08.08-05.41.35:674][647]LogHttp: Warning: 0000021518B59440: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.08.08-05.41.35:674][647]LogHttp: Warning: 0000021518B59440: libcurl info message cache 1 (  Trying 52.4.186.227...)
+[2018.08.08-05.41.35:674][647]LogHttp: Warning: 0000021518B59440: libcurl info message cache 2 (TCP_NODELAY set)
+[2018.08.08-05.41.35:674][647]LogHttp: Warning: 0000021518B59440: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (52.4.186.227) port 443 (#1))
+[2018.08.08-05.41.35:674][647]LogHttp: Warning: 0000021518B59440: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2018.08.08-05.41.35:674][647]LogHttp: Warning: 0000021518B59440: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.08.08-05.41.35:674][647]LogHttp: Warning: 0000021518B59440: libcurl info message cache 6 (SSL re-using session ID)
+[2018.08.08-05.41.35:674][647]LogHttp: Warning: 0000021518B59440: libcurl info message cache 7 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.08.08-05.41.35:674][647]LogHttp: Warning: 0000021518B59440: libcurl info message cache 8 (TLSv1.2 (IN), TLS handshake, Server hello (2):)
+[2018.08.08-05.41.35:674][647]LogHttp: Warning: 0000021518B59440: libcurl info message cache 9 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2018.08.08-05.41.35:674][647]LogHttp: Warning: 0000021518B59440: libcurl info message cache 10 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2018.08.08-05.41.35:674][647]LogHttp: Warning: 0000021518B59440: libcurl info message cache 11 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2018.08.08-05.41.35:674][647]LogHttp: Warning: 0000021518B59440: libcurl info message cache 12 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2018.08.08-05.41.35:674][647]LogHttp: Warning: 0000021518B59440: libcurl info message cache 13 (TLSv1.2 (OUT), TLS change cipher, Client hello (1):)
+[2018.08.08-05.41.35:674][647]LogHttp: Warning: 0000021518B59440: libcurl info message cache 14 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2018.08.08-05.41.35:674][647]LogHttp: Warning: 0000021518B59440: libcurl info message cache 15 (TLSv1.2 (IN), TLS change cipher, Client hello (1):)
+[2018.08.08-05.41.35:674][647]LogHttp: Warning: 0000021518B59440: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2018.08.08-05.41.35:674][647]LogHttp: Warning: 0000021518B59440: libcurl info message cache 17 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2018.08.08-05.41.35:674][647]LogHttp: Warning: 0000021518B59440: libcurl info message cache 18 (ALPN, server did not agree to a protocol)
+[2018.08.08-05.41.35:674][647]LogHttp: Warning: 0000021518B59440: libcurl info message cache 19 (old SSL session ID is stale, removing)
+[2018.08.08-05.41.35:674][647]LogHttp: Warning: 0000021518B59440: libcurl info message cache 20 (Server certificate:)
+[2018.08.08-05.41.35:674][647]LogHttp: Warning: 0000021518B59440: libcurl info message cache 21 ( subject: CN=*.ol.epicgames.com)
+[2018.08.08-05.41.35:674][647]LogHttp: Warning: 0000021518B59440: libcurl info message cache 22 ( start date: Mar 12 00:00:00 2018 GMT)
+[2018.08.08-05.41.35:674][647]LogHttp: Warning: 0000021518B59440: libcurl info message cache 23 ( expire date: Apr 12 12:00:00 2019 GMT)
+[2018.08.08-05.41.35:674][647]LogHttp: Warning: 0000021518B59440: libcurl info message cache 24 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "*.ol.epicgames.com")
+[2018.08.08-05.41.35:674][647]LogHttp: Warning: 0000021518B59440: libcurl info message cache 25 ( issuer: C=US; O=Amazon; OU=Server CA 1B; CN=Amazon)
+[2018.08.08-05.41.35:675][647]LogHttp: Warning: 0000021518B59440: libcurl info message cache 26 ( SSL certificate verify ok.)
+[2018.08.08-05.41.35:675][647]LogHttp: Warning: 0000021518B59440: libcurl info message cache 27 (upload completely sent off: 1453 out of 1453 bytes)
+[2018.08.08-05.41.35:675][647]LogHttp: Warning: 0000021518B59440: libcurl info message cache 28 (TLSv1.2 (IN), TLS alert, Server hello (2):)
+[2018.08.08-05.41.35:675][647]LogHttp: Warning: 0000021518B59440: libcurl info message cache 29 (OpenSSL SSL_read: error:140943FC:SSL routines:ssl3_read_bytes:sslv3 alert bad record mac, errno 0)
+[2018.08.08-05.41.35:675][647]LogHttp: Warning: 0000021518B59440: libcurl info message cache 30 (Closing connection 1)
+[2018.08.08-05.41.35:675][647]LogHttp: Warning: 0000021518B59440: libcurl info message cache 31 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.08.08-05.42.09:921][679]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.08-05.42.09:921][679]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.WorldInfo_0.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.08.08-05.42.10:088][679]LogMetaData: Removing '/Game/Main/ThirdPersonOverview.ThirdPersonOverview_C' ref from Metadata '/Game/ThirdPersonBP/ThirdPersonOverview.PackageMetaData'
+[2018.08.08-05.42.10:088][679]LogMetaData: Removing '/Game/Main/ThirdPersonOverview.SKEL_ThirdPersonOverview_C' ref from Metadata '/Game/ThirdPersonBP/ThirdPersonOverview.PackageMetaData'
+[2018.08.08-05.42.10:095][679]LogMetaData: Removing '/Game/Main/Blueprints/Enemy_BP.Enemy_BP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Enemy_BP.PackageMetaData'
+[2018.08.08-05.42.10:095][679]LogMetaData: Removing '/Game/Main/Blueprints/Enemy_BP.Enemy_BP_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Enemy_BP.PackageMetaData'
+[2018.08.08-05.42.10:095][679]LogMetaData: Removing '/Game/Main/Blueprints/Enemy_BP.Enemy_BP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Enemy_BP.PackageMetaData'
+[2018.08.08-05.42.10:095][679]LogMetaData: Removing '/Game/Main/Blueprints/Enemy_BP.Enemy_BP:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Enemy_BP.PackageMetaData'
+[2018.08.08-05.42.10:095][679]LogMetaData: Removing '/Game/Main/Blueprints/Enemy_BP.SKEL_Enemy_BP_C:ReceiveBeginPlay' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Enemy_BP.PackageMetaData'
+[2018.08.08-05.42.10:095][679]LogMetaData: Removing '/Game/Main/Blueprints/Enemy_BP.SKEL_Enemy_BP_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Enemy_BP.PackageMetaData'
+[2018.08.08-05.42.10:096][679]LogMetaData: Removing '/Game/Main/Blueprints/Enemy_BP.SKEL_Enemy_BP_C:ReceiveTick' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Enemy_BP.PackageMetaData'
+[2018.08.08-05.42.10:096][679]LogMetaData: Removing '/Game/Main/Blueprints/Enemy_BP.SKEL_Enemy_BP_C:FirstAttack' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Enemy_BP.PackageMetaData'
+[2018.08.08-05.42.10:096][679]LogMetaData: Removing '/Game/Main/Blueprints/Enemy_BP.SKEL_Enemy_BP_C:Atkflag' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Enemy_BP.PackageMetaData'
+[2018.08.08-05.42.10:096][679]LogMetaData: Removing '/Game/Main/Blueprints/Enemy_BP.SKEL_Enemy_BP_C:UserConstructionScript' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Enemy_BP.PackageMetaData'
+[2018.08.08-05.42.10:096][679]LogMetaData: Removing '/Game/Main/Blueprints/Enemy_BP.SKEL_Enemy_BP_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Enemy_BP.PackageMetaData'
+[2018.08.08-05.42.10:096][679]LogMetaData: Removing '/Game/Main/Blueprints/Enemy_BP.Enemy_BP_C:FirstAttack' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Enemy_BP.PackageMetaData'
+[2018.08.08-05.42.10:096][679]LogMetaData: Removing '/Game/Main/Blueprints/Enemy_BP.Enemy_BP_C:Atkflag' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Enemy_BP.PackageMetaData'
+[2018.08.08-05.42.10:096][679]LogMetaData: Removing '/Game/Main/Blueprints/Enemy_BP.Enemy_BP_C:ReceiveTick' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Enemy_BP.PackageMetaData'
+[2018.08.08-05.42.10:096][679]LogMetaData: Removing '/Game/Main/Blueprints/Enemy_BP.Enemy_BP_C:UserConstructionScript' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Enemy_BP.PackageMetaData'
+[2018.08.08-05.42.10:105][679]LogMetaData: Removing '/Game/Main/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.10:105][679]LogMetaData: Removing '/Game/Main/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter:UpdateHandleObject.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.10:105][679]LogMetaData: Removing '/Game/Main/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_LookUp_K2Node_InputAxisEvent_40' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.10:105][679]LogMetaData: Removing '/Game/Main/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_Turn_K2Node_InputAxisEvent_47' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.10:105][679]LogMetaData: Removing '/Game/Main/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.10:105][679]LogMetaData: Removing '/Game/Main/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.10:105][679]LogMetaData: Removing '/Game/Main/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_TurnRate_K2Node_InputAxisEvent_38' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.10:105][679]LogMetaData: Removing '/Game/Main/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_LookUpRate_K2Node_InputAxisEvent_53' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.10:105][679]LogMetaData: Removing '/Game/Main/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:ReceiveBeginPlay' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.10:105][679]LogMetaData: Removing '/Game/Main/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:ReceiveTick' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.10:105][679]LogMetaData: Removing '/Game/Main/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:HandleDistance' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.10:105][679]LogMetaData: Removing '/Game/Main/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:HandleObjectComponent' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.10:105][679]LogMetaData: Removing '/Game/Main/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:HandleComponent' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.10:105][679]LogMetaData: Removing '/Game/Main/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:TraceTypes' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.10:105][679]LogMetaData: Removing '/Game/Main/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:TraceDistance' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.10:105][679]LogMetaData: Removing '/Game/Main/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:IsHandle' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.10:105][679]LogMetaData: Removing '/Game/Main/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:AnimInstance' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.10:105][679]LogMetaData: Removing '/Game/Main/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:BaseLookUpRate' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.10:105][679]LogMetaData: Removing '/Game/Main/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:BaseTurnRate' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.10:106][679]LogMetaData: Removing '/Game/Main/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:Blink' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.10:106][679]LogMetaData: Removing '/Game/Main/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:CameraBoom' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.10:106][679]LogMetaData: Removing '/Game/Main/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:FollowCamera' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.10:106][679]LogMetaData: Removing '/Game/Main/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:Cube' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.10:106][679]LogMetaData: Removing '/Game/Main/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:SpotLight' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.10:106][679]LogMetaData: Removing '/Game/Main/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:UserConstructionScript' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.10:106][679]LogMetaData: Removing '/Game/Main/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.10:106][679]LogMetaData: Removing '/Game/Main/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:HandleDistance' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.10:106][679]LogMetaData: Removing '/Game/Main/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:HandleObjectComponent' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.10:106][679]LogMetaData: Removing '/Game/Main/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:HandleComponent' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.10:106][679]LogMetaData: Removing '/Game/Main/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:TraceTypes' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.10:106][679]LogMetaData: Removing '/Game/Main/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:TraceDistance' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.10:106][679]LogMetaData: Removing '/Game/Main/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:IsHandle' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.10:106][679]LogMetaData: Removing '/Game/Main/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:AnimInstance' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.10:106][679]LogMetaData: Removing '/Game/Main/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:BaseLookUpRate' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.10:106][679]LogMetaData: Removing '/Game/Main/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:BaseTurnRate' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.10:106][679]LogMetaData: Removing '/Game/Main/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Blink' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.10:106][679]LogMetaData: Removing '/Game/Main/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:CameraBoom' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.10:106][679]LogMetaData: Removing '/Game/Main/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:FollowCamera' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.10:106][679]LogMetaData: Removing '/Game/Main/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Cube' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.10:106][679]LogMetaData: Removing '/Game/Main/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:SpotLight' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.10:106][679]LogMetaData: Removing '/Game/Main/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ReceiveTick' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.10:106][679]LogMetaData: Removing '/Game/Main/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ReceiveBeginPlay' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.10:106][679]LogMetaData: Removing '/Game/Main/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:UserConstructionScript' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.10:114][679]LogMetaData: Removing '/Game/Main/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.PackageMetaData'
+[2018.08.08-05.42.10:114][679]LogMetaData: Removing '/Game/Main/Blueprints/ThirdPersonGameMode.SKEL_ThirdPersonGameMode_C:DefaultSceneRoot' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.PackageMetaData'
+[2018.08.08-05.42.10:114][679]LogMetaData: Removing '/Game/Main/Blueprints/ThirdPersonGameMode.SKEL_ThirdPersonGameMode_C:UserConstructionScript' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.PackageMetaData'
+[2018.08.08-05.42.10:114][679]LogMetaData: Removing '/Game/Main/Blueprints/ThirdPersonGameMode.SKEL_ThirdPersonGameMode_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.PackageMetaData'
+[2018.08.08-05.42.10:114][679]LogMetaData: Removing '/Game/Main/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C:DefaultSceneRoot' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.PackageMetaData'
+[2018.08.08-05.42.10:305][679]LogMetaData: Removing '/Game/Main/Maps/Room.Room_C' ref from Metadata '/Game/ThirdPersonBP/Maps/Room.PackageMetaData'
+[2018.08.08-05.42.10:305][679]LogMetaData: Removing '/Game/Main/Maps/Room.SKEL_Room_C' ref from Metadata '/Game/ThirdPersonBP/Maps/Room.PackageMetaData'
+[2018.08.08-05.42.10:319][679]LogMetaData: Removing '/Game/Main/Anim/EnemyAnim.EnemyAnim_C' ref from Metadata '/Game/ThirdPersonBP/Anim/EnemyAnim.PackageMetaData'
+[2018.08.08-05.42.10:319][679]LogMetaData: Removing '/Game/Main/Anim/EnemyAnim.EnemyAnim:AnimGraph.AnimGraphNode_Root_0' ref from Metadata '/Game/ThirdPersonBP/Anim/EnemyAnim.PackageMetaData'
+[2018.08.08-05.42.10:319][679]LogMetaData: Removing '/Game/Main/Anim/EnemyAnim.EnemyAnim:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ThirdPersonBP/Anim/EnemyAnim.PackageMetaData'
+[2018.08.08-05.42.10:319][679]LogMetaData: Removing '/Game/Main/Anim/EnemyAnim.EnemyAnim:AnimGraph.AnimGraphNode_StateMachine_0.New State Machine.AnimStateEntryNode_0' ref from Metadata '/Game/ThirdPersonBP/Anim/EnemyAnim.PackageMetaData'
+[2018.08.08-05.42.10:319][679]LogMetaData: Removing '/Game/Main/Anim/EnemyAnim.EnemyAnim:AnimGraph.AnimGraphNode_StateMachine_0.New State Machine.AnimStateNode_0.Idle_Eqip_01.AnimGraphNode_StateResult_0' ref from Metadata '/Game/ThirdPersonBP/Anim/EnemyAnim.PackageMetaData'
+[2018.08.08-05.42.10:319][679]LogMetaData: Removing '/Game/Main/Anim/EnemyAnim.SKEL_EnemyAnim_C:BlueprintUpdateAnimation' ref from Metadata '/Game/ThirdPersonBP/Anim/EnemyAnim.PackageMetaData'
+[2018.08.08-05.42.10:319][679]LogMetaData: Removing '/Game/Main/Anim/EnemyAnim.SKEL_EnemyAnim_C' ref from Metadata '/Game/ThirdPersonBP/Anim/EnemyAnim.PackageMetaData'
+[2018.08.08-05.42.10:661][679]LogMetaData: Removing '/Game/Main/Maps/ThirdPersonExampleMap.SKEL_ThirdPersonExampleMap_C' ref from Metadata '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.PackageMetaData'
+[2018.08.08-05.42.10:661][679]LogMetaData: Removing '/Game/Main/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' ref from Metadata '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.PackageMetaData'
+[2018.08.08-05.42.10:845][679]LogSavePackage: Moving '../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Saved/ThirdPersonExampleMap_BuiltData444CE2C748E1CC427553DF921B7E8ED9.tmp' to '../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Content/Main/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.08.08-05.42.10:862][679]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Maps/Room_BuiltData" FILE="../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Content/Main/Maps/Room_BuiltData.uasset" SILENT=true
+[2018.08.08-05.42.11:360][679]LogSavePackage: Moving '../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Saved/Room_BuiltData8BD90E8844EA976619E34AAED08C6D1D.tmp' to '../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Content/Main/Maps/Room_BuiltData.uasset'
+[2018.08.08-05.42.11:389][679]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Anim/EnemyMontage" FILE="../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Content/Main/Anim/EnemyMontage.uasset" SILENT=true
+[2018.08.08-05.42.11:406][679]LogSavePackage: Moving '../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Saved/EnemyMontageBB61BF274061C2911F0B0989726AE027.tmp' to '../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Content/Main/Anim/EnemyMontage.uasset'
+[2018.08.08-05.42.11:414][679]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/ThirdPersonOverview" FILE="../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Content/Main/ThirdPersonOverview.uasset" SILENT=true
+[2018.08.08-05.42.11:431][679]LogSavePackage: Moving '../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Saved/ThirdPersonOverview3AEB2ED047C4EE1BBB9BDDB44224BAC4.tmp' to '../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Content/Main/ThirdPersonOverview.uasset'
+[2018.08.08-05.42.11:451][679]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Blueprints/Enemy_BP" FILE="../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Content/Main/Blueprints/Enemy_BP.uasset" SILENT=true
+[2018.08.08-05.42.11:489][679]LogSavePackage: Moving '../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Saved/Enemy_BP16210E5C48AFA4473F79E1B2586E4EFF.tmp' to '../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Content/Main/Blueprints/Enemy_BP.uasset'
+[2018.08.08-05.42.11:612][679]LogSavePackage: Moving '../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Saved/ThirdPersonCharacter44479D344EA14348FABA5BA88BDC0150.tmp' to '../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Content/Main/Blueprints/ThirdPersonCharacter.uasset'
+[2018.08.08-05.42.11:622][679]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Blueprints/ThirdPersonGameMode" FILE="../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Content/Main/Blueprints/ThirdPersonGameMode.uasset" SILENT=true
+[2018.08.08-05.42.11:636][679]LogSavePackage: Moving '../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Saved/ThirdPersonGameMode024FD5BC407D26CB08AFE298EC0C5406.tmp' to '../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Content/Main/Blueprints/ThirdPersonGameMode.uasset'
+[2018.08.08-05.42.11:681][679]LogSavePackage: Moving '../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Saved/RealisticRender_MusicDay02B439052D45DA4CB2F2B8A6B3FB0B5CC2.tmp' to '../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Content/Main/Audio/Music/RealisticRender_MusicDay02.uasset'
+[2018.08.08-05.42.11:834][679]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Maps/Room" FILE="../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Content/Main/Maps/Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.08.08-05.42.12:482][679]LogSavePackage: Moving '../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Saved/RoomC53AA59A4430C2F5F0BA2E8648ACF0D3.tmp' to '../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Content/Main/Maps/Room.umap'
+[2018.08.08-05.42.12:529][679]LogFileHelpers: Saving map 'Room' took 0.838
+[2018.08.08-05.42.12:554][679]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Anim/EnemyAnim" FILE="../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Content/Main/Anim/EnemyAnim.uasset" SILENT=true
+[2018.08.08-05.42.12:584][679]LogSavePackage: Moving '../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Saved/EnemyAnim38BADD644E5389B6FE70648351D36BC4.tmp' to '../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Content/Main/Anim/EnemyAnim.uasset'
+[2018.08.08-05.42.12:628][679]LogSavePackage: Moving '../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Saved/RealisticRender_MusicDark01F6914BAC431CAE10B9C3A1BCBAFA3A2A.tmp' to '../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Content/Main/Audio/Music/RealisticRender_MusicDark01.uasset'
+[2018.08.08-05.42.12:711][679]LogSavePackage: Moving '../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Saved/RealisticRender_MusicNight01905FC2414A57180140BFD7A08091182F.tmp' to '../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Content/Main/Audio/Music/RealisticRender_MusicNight01.uasset'
+[2018.08.08-05.42.13:301][679]LogSavePackage: Moving '../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Saved/ThirdPersonExampleMap489B0818405320BAFDA7AC8FA0A2B18D.tmp' to '../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Content/Main/Maps/ThirdPersonExampleMap.umap'
+[2018.08.08-05.42.13:314][679]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.595
+[2018.08.08-05.42.14:663][679]LogFileManager: Warning: Error deleting file: ../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset (Error Code 32)
+[2018.08.08-05.42.14:707][679]LogSavePackage: Moving '../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Saved/RealisticRender_MusicDay02EBD26D494A3BBE13ACC8A2AF80F641FE.tmp' to '../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Content/Audio/Music/RealisticRender_MusicDay02.uasset'
+[2018.08.08-05.42.40:649][201]LogMetaData: Removing '/Game/Main/Blueprints/Player/ThirdPersonCharacter.ThirdPersonCharacter_C' ref from Metadata '/Game/Main/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.40:649][201]LogMetaData: Removing '/Game/Main/Blueprints/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:ReceiveBeginPlay' ref from Metadata '/Game/Main/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.40:649][201]LogMetaData: Removing '/Game/Main/Blueprints/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:ReceiveTick' ref from Metadata '/Game/Main/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.40:649][201]LogMetaData: Removing '/Game/Main/Blueprints/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:SpotLight' ref from Metadata '/Game/Main/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.40:649][201]LogMetaData: Removing '/Game/Main/Blueprints/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:Cube' ref from Metadata '/Game/Main/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.40:649][201]LogMetaData: Removing '/Game/Main/Blueprints/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:FollowCamera' ref from Metadata '/Game/Main/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.40:649][201]LogMetaData: Removing '/Game/Main/Blueprints/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:CameraBoom' ref from Metadata '/Game/Main/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.40:649][201]LogMetaData: Removing '/Game/Main/Blueprints/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:Blink' ref from Metadata '/Game/Main/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.40:649][201]LogMetaData: Removing '/Game/Main/Blueprints/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:BaseTurnRate' ref from Metadata '/Game/Main/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.40:649][201]LogMetaData: Removing '/Game/Main/Blueprints/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:BaseLookUpRate' ref from Metadata '/Game/Main/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.40:649][201]LogMetaData: Removing '/Game/Main/Blueprints/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:AnimInstance' ref from Metadata '/Game/Main/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.40:649][201]LogMetaData: Removing '/Game/Main/Blueprints/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:IsHandle' ref from Metadata '/Game/Main/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.40:649][201]LogMetaData: Removing '/Game/Main/Blueprints/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:TraceDistance' ref from Metadata '/Game/Main/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.40:649][201]LogMetaData: Removing '/Game/Main/Blueprints/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:TraceTypes' ref from Metadata '/Game/Main/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.40:649][201]LogMetaData: Removing '/Game/Main/Blueprints/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:HandleComponent' ref from Metadata '/Game/Main/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.40:649][201]LogMetaData: Removing '/Game/Main/Blueprints/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:HandleObjectComponent' ref from Metadata '/Game/Main/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.40:649][201]LogMetaData: Removing '/Game/Main/Blueprints/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:HandleDistance' ref from Metadata '/Game/Main/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.40:649][201]LogMetaData: Removing '/Game/Main/Blueprints/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:UserConstructionScript' ref from Metadata '/Game/Main/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.40:649][201]LogMetaData: Removing '/Game/Main/Blueprints/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C' ref from Metadata '/Game/Main/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.40:649][201]LogMetaData: Removing '/Game/Main/Blueprints/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_LookUp_K2Node_InputAxisEvent_40' ref from Metadata '/Game/Main/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.40:649][201]LogMetaData: Removing '/Game/Main/Blueprints/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_Turn_K2Node_InputAxisEvent_47' ref from Metadata '/Game/Main/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.40:649][201]LogMetaData: Removing '/Game/Main/Blueprints/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79' ref from Metadata '/Game/Main/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.40:649][201]LogMetaData: Removing '/Game/Main/Blueprints/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90' ref from Metadata '/Game/Main/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.40:649][201]LogMetaData: Removing '/Game/Main/Blueprints/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_TurnRate_K2Node_InputAxisEvent_38' ref from Metadata '/Game/Main/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.40:649][201]LogMetaData: Removing '/Game/Main/Blueprints/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_LookUpRate_K2Node_InputAxisEvent_53' ref from Metadata '/Game/Main/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.40:649][201]LogMetaData: Removing '/Game/Main/Blueprints/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:ReceiveBeginPlay' ref from Metadata '/Game/Main/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.40:649][201]LogMetaData: Removing '/Game/Main/Blueprints/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:ReceiveTick' ref from Metadata '/Game/Main/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.40:649][201]LogMetaData: Removing '/Game/Main/Blueprints/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:HandleDistance' ref from Metadata '/Game/Main/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.40:650][201]LogMetaData: Removing '/Game/Main/Blueprints/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:HandleObjectComponent' ref from Metadata '/Game/Main/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.40:650][201]LogMetaData: Removing '/Game/Main/Blueprints/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:HandleComponent' ref from Metadata '/Game/Main/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.40:650][201]LogMetaData: Removing '/Game/Main/Blueprints/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:TraceTypes' ref from Metadata '/Game/Main/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.40:650][201]LogMetaData: Removing '/Game/Main/Blueprints/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:TraceDistance' ref from Metadata '/Game/Main/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.40:650][201]LogMetaData: Removing '/Game/Main/Blueprints/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:IsHandle' ref from Metadata '/Game/Main/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.40:650][201]LogMetaData: Removing '/Game/Main/Blueprints/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:AnimInstance' ref from Metadata '/Game/Main/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.40:650][201]LogMetaData: Removing '/Game/Main/Blueprints/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:BaseLookUpRate' ref from Metadata '/Game/Main/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.40:650][201]LogMetaData: Removing '/Game/Main/Blueprints/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:BaseTurnRate' ref from Metadata '/Game/Main/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.40:650][201]LogMetaData: Removing '/Game/Main/Blueprints/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:Blink' ref from Metadata '/Game/Main/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.40:650][201]LogMetaData: Removing '/Game/Main/Blueprints/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:CameraBoom' ref from Metadata '/Game/Main/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.40:650][201]LogMetaData: Removing '/Game/Main/Blueprints/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:FollowCamera' ref from Metadata '/Game/Main/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.40:650][201]LogMetaData: Removing '/Game/Main/Blueprints/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:Cube' ref from Metadata '/Game/Main/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.40:650][201]LogMetaData: Removing '/Game/Main/Blueprints/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:SpotLight' ref from Metadata '/Game/Main/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.40:650][201]LogMetaData: Removing '/Game/Main/Blueprints/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:UserConstructionScript' ref from Metadata '/Game/Main/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.40:650][201]LogMetaData: Removing '/Game/Main/Blueprints/Player/ThirdPersonCharacter.ThirdPersonCharacter:UpdateHandleObject.K2Node_FunctionEntry_0' ref from Metadata '/Game/Main/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.08.08-05.42.40:799][201]LogSavePackage: Moving '../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Saved/ThirdPersonCharacter832F48B342CB420DBBB169B223D4FBE1.tmp' to '../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Content/Main/Blueprints/Player/ThirdPersonCharacter.uasset'
+[2018.08.08-05.42.40:825][201]LogSavePackage: Moving '../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Saved/ThirdPersonCharacter834F42724474B01F498167AE853680BB.tmp' to '../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Content/Main/Blueprints/ThirdPersonCharacter.uasset'
+[2018.08.08-05.42.47:075][564]LogMetaData: Removing '/Game/Main/Blueprints/Enemy/Enemy_BP.Enemy_BP_C' ref from Metadata '/Game/Main/Blueprints/Enemy_BP.PackageMetaData'
+[2018.08.08-05.42.47:075][564]LogMetaData: Removing '/Game/Main/Blueprints/Enemy/Enemy_BP.Enemy_BP_C:FirstAttack' ref from Metadata '/Game/Main/Blueprints/Enemy_BP.PackageMetaData'
+[2018.08.08-05.42.47:076][564]LogMetaData: Removing '/Game/Main/Blueprints/Enemy/Enemy_BP.Enemy_BP_C:Atkflag' ref from Metadata '/Game/Main/Blueprints/Enemy_BP.PackageMetaData'
+[2018.08.08-05.42.47:076][564]LogMetaData: Removing '/Game/Main/Blueprints/Enemy/Enemy_BP.Enemy_BP_C:ReceiveTick' ref from Metadata '/Game/Main/Blueprints/Enemy_BP.PackageMetaData'
+[2018.08.08-05.42.47:076][564]LogMetaData: Removing '/Game/Main/Blueprints/Enemy/Enemy_BP.Enemy_BP_C:UserConstructionScript' ref from Metadata '/Game/Main/Blueprints/Enemy_BP.PackageMetaData'
+[2018.08.08-05.42.47:076][564]LogMetaData: Removing '/Game/Main/Blueprints/Enemy/Enemy_BP.SKEL_Enemy_BP_C' ref from Metadata '/Game/Main/Blueprints/Enemy_BP.PackageMetaData'
+[2018.08.08-05.42.47:076][564]LogMetaData: Removing '/Game/Main/Blueprints/Enemy/Enemy_BP.SKEL_Enemy_BP_C:ReceiveBeginPlay' ref from Metadata '/Game/Main/Blueprints/Enemy_BP.PackageMetaData'
+[2018.08.08-05.42.47:076][564]LogMetaData: Removing '/Game/Main/Blueprints/Enemy/Enemy_BP.SKEL_Enemy_BP_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Main/Blueprints/Enemy_BP.PackageMetaData'
+[2018.08.08-05.42.47:076][564]LogMetaData: Removing '/Game/Main/Blueprints/Enemy/Enemy_BP.SKEL_Enemy_BP_C:ReceiveTick' ref from Metadata '/Game/Main/Blueprints/Enemy_BP.PackageMetaData'
+[2018.08.08-05.42.47:076][564]LogMetaData: Removing '/Game/Main/Blueprints/Enemy/Enemy_BP.SKEL_Enemy_BP_C:FirstAttack' ref from Metadata '/Game/Main/Blueprints/Enemy_BP.PackageMetaData'
+[2018.08.08-05.42.47:076][564]LogMetaData: Removing '/Game/Main/Blueprints/Enemy/Enemy_BP.SKEL_Enemy_BP_C:Atkflag' ref from Metadata '/Game/Main/Blueprints/Enemy_BP.PackageMetaData'
+[2018.08.08-05.42.47:076][564]LogMetaData: Removing '/Game/Main/Blueprints/Enemy/Enemy_BP.SKEL_Enemy_BP_C:UserConstructionScript' ref from Metadata '/Game/Main/Blueprints/Enemy_BP.PackageMetaData'
+[2018.08.08-05.42.47:076][564]LogMetaData: Removing '/Game/Main/Blueprints/Enemy/Enemy_BP.Enemy_BP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Main/Blueprints/Enemy_BP.PackageMetaData'
+[2018.08.08-05.42.47:076][564]LogMetaData: Removing '/Game/Main/Blueprints/Enemy/Enemy_BP.Enemy_BP:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Main/Blueprints/Enemy_BP.PackageMetaData'
+[2018.08.08-05.42.47:076][564]LogMetaData: Removing '/Game/Main/Blueprints/Enemy/Enemy_BP.Enemy_BP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Main/Blueprints/Enemy_BP.PackageMetaData'
+[2018.08.08-05.42.47:132][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Blueprints/Enemy/Enemy_BP" FILE="../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Content/Main/Blueprints/Enemy/Enemy_BP.uasset" SILENT=true
+[2018.08.08-05.42.47:172][564]LogSavePackage: Moving '../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Saved/Enemy_BP791014944C8D5C464A606AB2044553C1.tmp' to '../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Content/Main/Blueprints/Enemy/Enemy_BP.uasset'
+[2018.08.08-05.42.47:181][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Blueprints/Enemy_BP" FILE="../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Content/Main/Blueprints/Enemy_BP.uasset" SILENT=true
+[2018.08.08-05.42.47:198][564]LogSavePackage: Moving '../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Saved/Enemy_BPF7E4DF3C4BFCA9B46225A8A3ACC43486.tmp' to '../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Content/Main/Blueprints/Enemy_BP.uasset'
+[2018.08.08-05.42.48:562][597]LogSlate: Window 'コンテンツを保存' being destroyed
+[2018.08.08-05.42.48:613][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Anim/EnemyAnim" FILE="../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Content/Main/Anim/EnemyAnim.uasset" SILENT=true
+[2018.08.08-05.42.48:655][597]LogSavePackage: Moving '../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Saved/EnemyAnimA81CC70540AA2815C691EFAAC02852BE.tmp' to '../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Content/Main/Anim/EnemyAnim.uasset'
+[2018.08.08-05.42.48:664][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Blueprints/Enemy/Enemy_BP" FILE="../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Content/Main/Blueprints/Enemy/Enemy_BP.uasset" SILENT=true
+[2018.08.08-05.42.48:698][597]LogSavePackage: Moving '../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Saved/Enemy_BP841326F04B81AD0570EC668095751CF5.tmp' to '../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Content/Main/Blueprints/Enemy/Enemy_BP.uasset'
+[2018.08.08-05.42.48:819][597]LogSavePackage: Moving '../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Saved/ThirdPersonCharacter5A3B37194278F20BB19178831BC43792.tmp' to '../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Content/Main/Blueprints/Player/ThirdPersonCharacter.uasset'
+[2018.08.08-05.42.48:827][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Blueprints/ThirdPersonGameMode" FILE="../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Content/Main/Blueprints/ThirdPersonGameMode.uasset" SILENT=true
+[2018.08.08-05.42.48:848][597]LogSavePackage: Moving '../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Saved/ThirdPersonGameModeE463A8C241CC9DB42E75EFABC76933DB.tmp' to '../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Content/Main/Blueprints/ThirdPersonGameMode.uasset'
+[2018.08.08-05.42.49:000][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Maps/Room" FILE="../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Content/Main/Maps/Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.08.08-05.42.49:617][597]LogSavePackage: Moving '../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Saved/Room4CE3007A40DF082325C5E5A48772BD79.tmp' to '../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Content/Main/Maps/Room.umap'
+[2018.08.08-05.42.49:670][597]LogFileHelpers: Saving map 'Room' took 0.815
+[2018.08.08-05.42.50:238][597]LogSavePackage: Moving '../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Saved/ThirdPersonExampleMapB055177F498236A09E3BA181E13BCE1A.tmp' to '../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Content/Main/Maps/ThirdPersonExampleMap.umap'
+[2018.08.08-05.42.50:249][597]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.576
+[2018.08.08-05.43.36:499][352]LogHttp: Warning: 0000021518B939C0: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2018.08.08-05.43.36:499][352]LogHttp: Warning: 0000021518B939C0: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.08.08-05.43.36:499][352]LogHttp: Warning: 0000021518B939C0: libcurl info message cache 1 (  Trying 52.2.36.251...)
+[2018.08.08-05.43.36:499][352]LogHttp: Warning: 0000021518B939C0: libcurl info message cache 2 (TCP_NODELAY set)
+[2018.08.08-05.43.36:499][352]LogHttp: Warning: 0000021518B939C0: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (52.2.36.251) port 443 (#2))
+[2018.08.08-05.43.36:499][352]LogHttp: Warning: 0000021518B939C0: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2018.08.08-05.43.36:499][352]LogHttp: Warning: 0000021518B939C0: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.08.08-05.43.36:499][352]LogHttp: Warning: 0000021518B939C0: libcurl info message cache 6 (SSL re-using session ID)
+[2018.08.08-05.43.36:499][352]LogHttp: Warning: 0000021518B939C0: libcurl info message cache 7 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.08.08-05.43.36:499][352]LogHttp: Warning: 0000021518B939C0: libcurl info message cache 8 (TLSv1.2 (IN), TLS handshake, Server hello (2):)
+[2018.08.08-05.43.36:499][352]LogHttp: Warning: 0000021518B939C0: libcurl info message cache 9 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2018.08.08-05.43.36:499][352]LogHttp: Warning: 0000021518B939C0: libcurl info message cache 10 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2018.08.08-05.43.36:499][352]LogHttp: Warning: 0000021518B939C0: libcurl info message cache 11 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2018.08.08-05.43.36:499][352]LogHttp: Warning: 0000021518B939C0: libcurl info message cache 12 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2018.08.08-05.43.36:499][352]LogHttp: Warning: 0000021518B939C0: libcurl info message cache 13 (TLSv1.2 (OUT), TLS change cipher, Client hello (1):)
+[2018.08.08-05.43.36:499][352]LogHttp: Warning: 0000021518B939C0: libcurl info message cache 14 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2018.08.08-05.43.36:499][352]LogHttp: Warning: 0000021518B939C0: libcurl info message cache 15 (TLSv1.2 (IN), TLS change cipher, Client hello (1):)
+[2018.08.08-05.43.36:499][352]LogHttp: Warning: 0000021518B939C0: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2018.08.08-05.43.36:499][352]LogHttp: Warning: 0000021518B939C0: libcurl info message cache 17 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2018.08.08-05.43.36:500][352]LogHttp: Warning: 0000021518B939C0: libcurl info message cache 18 (ALPN, server did not agree to a protocol)
+[2018.08.08-05.43.36:500][352]LogHttp: Warning: 0000021518B939C0: libcurl info message cache 19 (old SSL session ID is stale, removing)
+[2018.08.08-05.43.36:500][352]LogHttp: Warning: 0000021518B939C0: libcurl info message cache 20 (Server certificate:)
+[2018.08.08-05.43.36:500][352]LogHttp: Warning: 0000021518B939C0: libcurl info message cache 21 ( subject: CN=*.ol.epicgames.com)
+[2018.08.08-05.43.36:500][352]LogHttp: Warning: 0000021518B939C0: libcurl info message cache 22 ( start date: Mar 12 00:00:00 2018 GMT)
+[2018.08.08-05.43.36:500][352]LogHttp: Warning: 0000021518B939C0: libcurl info message cache 23 ( expire date: Apr 12 12:00:00 2019 GMT)
+[2018.08.08-05.43.36:500][352]LogHttp: Warning: 0000021518B939C0: libcurl info message cache 24 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "*.ol.epicgames.com")
+[2018.08.08-05.43.36:500][352]LogHttp: Warning: 0000021518B939C0: libcurl info message cache 25 ( issuer: C=US; O=Amazon; OU=Server CA 1B; CN=Amazon)
+[2018.08.08-05.43.36:500][352]LogHttp: Warning: 0000021518B939C0: libcurl info message cache 26 ( SSL certificate verify ok.)
+[2018.08.08-05.43.36:500][352]LogHttp: Warning: 0000021518B939C0: libcurl info message cache 27 (upload completely sent off: 1049 out of 1049 bytes)
+[2018.08.08-05.43.36:500][352]LogHttp: Warning: 0000021518B939C0: libcurl info message cache 28 (TLSv1.2 (IN), TLS alert, Server hello (2):)
+[2018.08.08-05.43.36:500][352]LogHttp: Warning: 0000021518B939C0: libcurl info message cache 29 (OpenSSL SSL_read: error:140943FC:SSL routines:ssl3_read_bytes:sslv3 alert bad record mac, errno 0)
+[2018.08.08-05.43.36:500][352]LogHttp: Warning: 0000021518B939C0: libcurl info message cache 30 (Closing connection 2)
+[2018.08.08-05.43.36:500][352]LogHttp: Warning: 0000021518B939C0: libcurl info message cache 31 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.08.08-05.44.22:482][109]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.08-05.45.25:055][850]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Maps/Room" FILE="../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Content/Main/Maps/Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.08.08-05.45.25:670][850]LogSavePackage: Moving '../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Saved/RoomFD4F60E049C86D825F8EF69F781C25F5.tmp' to '../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Content/Main/Maps/Room.umap'
+[2018.08.08-05.45.25:721][850]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Maps/Room_BuiltData" FILE="../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Content/Main/Maps/Room_BuiltData.uasset" SILENT=true
+[2018.08.08-05.45.26:240][850]LogSavePackage: Moving '../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Saved/Room_BuiltDataE4B046BE4043C6B8C74D7F976E1FA0EB.tmp' to '../../../../../../Users/oreng/Documents/Unreal Projects/Puti/Content/Main/Maps/Room_BuiltData.uasset'
+[2018.08.08-05.45.38:365][577]LogHttp: Warning: 00000215DA508B80: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2018.08.08-05.45.38:365][577]LogHttp: Warning: 00000215DA508B80: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.08.08-05.45.38:365][577]LogHttp: Warning: 00000215DA508B80: libcurl info message cache 1 (  Trying 35.174.140.88...)
+[2018.08.08-05.45.38:365][577]LogHttp: Warning: 00000215DA508B80: libcurl info message cache 2 (TCP_NODELAY set)
+[2018.08.08-05.45.38:365][577]LogHttp: Warning: 00000215DA508B80: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (35.174.140.88) port 443 (#3))
+[2018.08.08-05.45.38:365][577]LogHttp: Warning: 00000215DA508B80: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2018.08.08-05.45.38:365][577]LogHttp: Warning: 00000215DA508B80: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.08.08-05.45.38:365][577]LogHttp: Warning: 00000215DA508B80: libcurl info message cache 6 (SSL re-using session ID)
+[2018.08.08-05.45.38:365][577]LogHttp: Warning: 00000215DA508B80: libcurl info message cache 7 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.08.08-05.45.38:365][577]LogHttp: Warning: 00000215DA508B80: libcurl info message cache 8 (TLSv1.2 (IN), TLS handshake, Server hello (2):)
+[2018.08.08-05.45.38:365][577]LogHttp: Warning: 00000215DA508B80: libcurl info message cache 9 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2018.08.08-05.45.38:365][577]LogHttp: Warning: 00000215DA508B80: libcurl info message cache 10 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2018.08.08-05.45.38:365][577]LogHttp: Warning: 00000215DA508B80: libcurl info message cache 11 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2018.08.08-05.45.38:365][577]LogHttp: Warning: 00000215DA508B80: libcurl info message cache 12 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2018.08.08-05.45.38:365][577]LogHttp: Warning: 00000215DA508B80: libcurl info message cache 13 (TLSv1.2 (OUT), TLS change cipher, Client hello (1):)
+[2018.08.08-05.45.38:365][577]LogHttp: Warning: 00000215DA508B80: libcurl info message cache 14 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2018.08.08-05.45.38:365][577]LogHttp: Warning: 00000215DA508B80: libcurl info message cache 15 (TLSv1.2 (IN), TLS change cipher, Client hello (1):)
+[2018.08.08-05.45.38:365][577]LogHttp: Warning: 00000215DA508B80: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2018.08.08-05.45.38:366][577]LogHttp: Warning: 00000215DA508B80: libcurl info message cache 17 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2018.08.08-05.45.38:366][577]LogHttp: Warning: 00000215DA508B80: libcurl info message cache 18 (ALPN, server did not agree to a protocol)
+[2018.08.08-05.45.38:366][577]LogHttp: Warning: 00000215DA508B80: libcurl info message cache 19 (old SSL session ID is stale, removing)
+[2018.08.08-05.45.38:366][577]LogHttp: Warning: 00000215DA508B80: libcurl info message cache 20 (Server certificate:)
+[2018.08.08-05.45.38:366][577]LogHttp: Warning: 00000215DA508B80: libcurl info message cache 21 ( subject: CN=*.ol.epicgames.com)
+[2018.08.08-05.45.38:366][577]LogHttp: Warning: 00000215DA508B80: libcurl info message cache 22 ( start date: Mar 12 00:00:00 2018 GMT)
+[2018.08.08-05.45.38:366][577]LogHttp: Warning: 00000215DA508B80: libcurl info message cache 23 ( expire date: Apr 12 12:00:00 2019 GMT)
+[2018.08.08-05.45.38:366][577]LogHttp: Warning: 00000215DA508B80: libcurl info message cache 24 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "*.ol.epicgames.com")
+[2018.08.08-05.45.38:366][577]LogHttp: Warning: 00000215DA508B80: libcurl info message cache 25 ( issuer: C=US; O=Amazon; OU=Server CA 1B; CN=Amazon)
+[2018.08.08-05.45.38:366][577]LogHttp: Warning: 00000215DA508B80: libcurl info message cache 26 ( SSL certificate verify ok.)
+[2018.08.08-05.45.38:366][577]LogHttp: Warning: 00000215DA508B80: libcurl info message cache 27 (upload completely sent off: 896 out of 896 bytes)
+[2018.08.08-05.45.38:366][577]LogHttp: Warning: 00000215DA508B80: libcurl info message cache 28 (TLSv1.2 (IN), TLS alert, Server hello (2):)
+[2018.08.08-05.45.38:366][577]LogHttp: Warning: 00000215DA508B80: libcurl info message cache 29 (OpenSSL SSL_read: error:140943FC:SSL routines:ssl3_read_bytes:sslv3 alert bad record mac, errno 0)
+[2018.08.08-05.45.38:366][577]LogHttp: Warning: 00000215DA508B80: libcurl info message cache 30 (Closing connection 3)
+[2018.08.08-05.45.38:366][577]LogHttp: Warning: 00000215DA508B80: libcurl info message cache 31 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.08.08-05.45.57:772][727]LogSlate: Window 'Puti - Unreal Editor' being destroyed
+[2018.08.08-05.45.57:780][727]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft IME).
+[2018.08.08-05.45.58:391][728]Cmd: QUIT_EDITOR
+[2018.08.08-05.45.58:468][728]LogExit: Preparing to exit.
+[2018.08.08-05.45.59:203][728]LogExit: Editor shut down
+[2018.08.08-05.45.59:203][728]LogExit: Transaction tracking system shut down
+[2018.08.08-05.45.59:480][728]LogExit: Object subsystem successfully closed.
+[2018.08.08-05.45.59:510][728]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.08.08-05.45.59:515][728]LogD3D11RHI: Shutdown
+[2018.08.08-05.45.59:516][728]LogD3D11RHI: CleanupD3DDevice
+[2018.08.08-05.45.59:528][728]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.08.08-05.45.59:576][728]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (622)
+[2018.08.08-05.45.59:576][728]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (620)
+[2018.08.08-05.45.59:576][728]LogModuleManager: Shutting down and abandoning module Voice (618)
+[2018.08.08-05.45.59:576][728]LogModuleManager: Shutting down and abandoning module BlueprintGraph (616)
+[2018.08.08-05.45.59:577][728]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (614)
+[2018.08.08-05.45.59:577][728]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (612)
+[2018.08.08-05.45.59:577][728]LogModuleManager: Shutting down and abandoning module AddContentDialog (610)
+[2018.08.08-05.45.59:577][728]LogModuleManager: Shutting down and abandoning module WidgetCarousel (609)
+[2018.08.08-05.45.59:577][728]LogModuleManager: Shutting down and abandoning module EditorWidgets (606)
+[2018.08.08-05.45.59:577][728]LogModuleManager: Shutting down and abandoning module CollectionManager (604)
+[2018.08.08-05.45.59:578][728]LogModuleManager: Shutting down and abandoning module SceneOutliner (602)
+[2018.08.08-05.45.59:578][728]LogModuleManager: Shutting down and abandoning module WorldBrowser (600)
+[2018.08.08-05.45.59:579][728]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2018.08.08-05.45.59:579][728]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2018.08.08-05.45.59:579][728]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2018.08.08-05.45.59:580][728]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2018.08.08-05.45.59:581][728]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2018.08.08-05.45.59:581][728]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2018.08.08-05.45.59:581][728]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2018.08.08-05.45.59:581][728]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2018.08.08-05.45.59:581][728]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2018.08.08-05.45.59:581][728]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2018.08.08-05.45.59:581][728]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2018.08.08-05.45.59:581][728]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2018.08.08-05.45.59:581][728]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2018.08.08-05.45.59:582][728]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2018.08.08-05.45.59:582][728]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2018.08.08-05.45.59:582][728]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2018.08.08-05.45.59:584][728]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2018.08.08-05.45.59:584][728]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2018.08.08-05.45.59:584][728]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2018.08.08-05.45.59:584][728]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2018.08.08-05.45.59:584][728]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2018.08.08-05.45.59:585][728]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2018.08.08-05.45.59:585][728]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2018.08.08-05.45.59:585][728]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2018.08.08-05.45.59:585][728]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2018.08.08-05.45.59:585][728]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2018.08.08-05.45.59:585][728]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2018.08.08-05.45.59:585][728]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2018.08.08-05.45.59:585][728]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2018.08.08-05.45.59:585][728]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2018.08.08-05.45.59:585][728]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2018.08.08-05.45.59:585][728]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2018.08.08-05.45.59:585][728]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2018.08.08-05.45.59:585][728]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2018.08.08-05.45.59:585][728]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2018.08.08-05.45.59:585][728]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2018.08.08-05.45.59:585][728]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2018.08.08-05.45.59:586][728]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2018.08.08-05.45.59:587][728]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2018.08.08-05.45.59:588][728]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2018.08.08-05.45.59:589][728]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2018.08.08-05.45.59:590][728]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2018.08.08-05.45.59:590][728]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2018.08.08-05.45.59:590][728]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2018.08.08-05.45.59:590][728]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2018.08.08-05.45.59:590][728]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2018.08.08-05.46.00:001][728]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2018.08.08-05.46.00:001][728]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2018.08.08-05.46.00:001][728]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2018.08.08-05.46.00:001][728]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2018.08.08-05.46.00:001][728]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2018.08.08-05.46.00:001][728]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2018.08.08-05.46.00:003][728]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2018.08.08-05.46.00:003][728]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2018.08.08-05.46.00:003][728]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2018.08.08-05.46.00:003][728]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2018.08.08-05.46.00:003][728]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2018.08.08-05.46.00:004][728]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2018.08.08-05.46.00:004][728]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2018.08.08-05.46.00:004][728]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2018.08.08-05.46.00:004][728]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2018.08.08-05.46.00:004][728]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2018.08.08-05.46.00:004][728]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2018.08.08-05.46.00:004][728]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2018.08.08-05.46.00:005][728]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2018.08.08-05.46.00:005][728]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2018.08.08-05.46.00:006][728]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2018.08.08-05.46.00:006][728]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2018.08.08-05.46.00:061][728]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2018.08.08-05.46.00:062][728]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2018.08.08-05.46.00:062][728]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2018.08.08-05.46.00:063][728]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2018.08.08-05.46.00:064][728]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2018.08.08-05.46.00:064][728]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2018.08.08-05.46.00:064][728]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2018.08.08-05.46.00:065][728]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2018.08.08-05.46.00:065][728]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2018.08.08-05.46.00:065][728]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2018.08.08-05.46.00:069][728]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2018.08.08-05.46.00:070][728]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2018.08.08-05.46.00:070][728]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2018.08.08-05.46.00:070][728]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2018.08.08-05.46.00:070][728]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2018.08.08-05.46.00:071][728]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2018.08.08-05.46.00:071][728]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2018.08.08-05.46.00:071][728]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2018.08.08-05.46.00:071][728]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2018.08.08-05.46.00:071][728]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2018.08.08-05.46.00:071][728]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2018.08.08-05.46.00:072][728]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2018.08.08-05.46.00:072][728]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2018.08.08-05.46.00:072][728]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2018.08.08-05.46.00:072][728]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2018.08.08-05.46.00:072][728]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2018.08.08-05.46.00:072][728]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2018.08.08-05.46.00:072][728]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2018.08.08-05.46.00:073][728]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2018.08.08-05.46.00:073][728]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2018.08.08-05.46.00:073][728]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2018.08.08-05.46.00:073][728]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.08.08-05.46.00:253][728]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.08.08-05.46.00:255][728]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.08.08-05.46.00:255][728]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.08.08-05.46.00:255][728]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.08.08-05.46.00:255][728]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.08.08-05.46.00:255][728]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.08.08-05.46.00:255][728]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.08.08-05.46.00:255][728]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.08.08-05.46.00:255][728]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.08.08-05.46.00:255][728]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.08.08-05.46.00:255][728]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.08.08-05.46.00:255][728]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.08.08-05.46.00:255][728]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.08.08-05.46.00:255][728]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.08.08-05.46.00:257][728]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2018.08.08-05.46.00:257][728]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2018.08.08-05.46.00:257][728]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2018.08.08-05.46.00:257][728]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2018.08.08-05.46.00:261][728]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2018.08.08-05.46.00:261][728]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2018.08.08-05.46.00:261][728]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2018.08.08-05.46.00:261][728]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2018.08.08-05.46.00:261][728]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2018.08.08-05.46.00:261][728]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.08.08-05.46.00:261][728]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.08.08-05.46.00:261][728]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.08.08-05.46.00:261][728]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.08.08-05.46.00:261][728]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.08.08-05.46.00:261][728]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.08.08-05.46.00:262][728]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2018.08.08-05.46.00:262][728]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.08.08-05.46.00:262][728]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.08.08-05.46.00:263][728]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.08.08-05.46.00:263][728]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.08.08-05.46.00:263][728]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.08.08-05.46.00:264][728]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.08.08-05.46.00:264][728]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.08.08-05.46.00:264][728]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.08.08-05.46.00:264][728]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.08.08-05.46.00:264][728]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.08.08-05.46.00:264][728]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.08.08-05.46.00:264][728]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.08.08-05.46.00:265][728]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.08.08-05.46.00:266][728]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.08.08-05.46.00:266][728]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.08.08-05.46.00:266][728]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2018.08.08-05.46.00:266][728]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2018.08.08-05.46.00:266][728]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2018.08.08-05.46.00:266][728]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2018.08.08-05.46.00:267][728]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2018.08.08-05.46.00:267][728]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.08.08-05.46.00:267][728]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.08.08-05.46.00:267][728]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.08.08-05.46.00:267][728]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.08.08-05.46.00:267][728]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.08.08-05.46.00:267][728]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.08.08-05.46.00:267][728]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.08.08-05.46.00:268][728]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.08.08-05.46.00:268][728]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.08.08-05.46.00:369][728]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.08.08-05.46.00:470][728]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.08.08-05.46.00:470][728]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.08.08-05.46.00:471][728]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.08.08-05.46.00:471][728]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.08.08-05.46.00:471][728]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.08.08-05.46.00:471][728]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.08.08-05.46.00:472][728]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.08.08-05.46.00:473][728]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.08.08-05.46.00:474][728]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.08.08-05.46.00:474][728]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.08.08-05.46.00:474][728]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.08.08-05.46.00:475][728]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.08.08-05.46.00:476][728]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.08.08-05.46.00:476][728]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.08.08-05.46.00:476][728]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.08.08-05.46.00:476][728]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.08.08-05.46.00:476][728]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.08.08-05.46.00:477][728]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.08.08-05.46.00:479][728]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.08.08-05.46.00:485][728]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.08.08-05.46.00:485][728]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.08.08-05.46.00:485][728]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.08.08-05.46.00:486][728]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.08.08-05.46.00:486][728]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.08.08-05.46.00:486][728]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.08.08-05.46.00:486][728]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.08.08-05.46.00:486][728]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.08.08-05.46.00:487][728]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.08.08-05.46.00:487][728]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.08.08-05.46.00:488][728]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.08.08-05.46.00:488][728]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.08.08-05.46.00:489][728]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.08.08-05.46.00:489][728]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.08.08-05.46.00:489][728]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.08.08-05.46.00:490][728]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.08.08-05.46.00:492][728]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.08.08-05.46.00:492][728]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.08.08-05.46.00:493][728]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.08.08-05.46.00:493][728]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.08.08-05.46.00:494][728]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.08.08-05.46.00:495][728]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.08.08-05.46.00:495][728]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.08.08-05.46.00:495][728]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.08.08-05.46.00:495][728]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.08.08-05.46.00:495][728]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.08.08-05.46.00:495][728]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.08.08-05.46.00:495][728]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.08.08-05.46.00:495][728]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.08.08-05.46.00:495][728]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.08.08-05.46.00:496][728]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.08.08-05.46.00:496][728]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.08.08-05.46.00:496][728]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.08.08-05.46.00:496][728]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.08.08-05.46.00:496][728]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.08.08-05.46.00:497][728]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.08.08-05.46.00:497][728]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.08.08-05.46.00:497][728]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.08.08-05.46.00:537][728]LogDerivedDataCache: Shutdown
+[2018.08.08-05.46.00:537][728]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.08.08-05.46.00:538][728]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.08.08-05.46.00:538][728]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.08.08-05.46.00:538][728]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.08.08-05.46.00:538][728]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.08.08-05.46.00:539][728]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.08.08-05.46.00:539][728]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.08.08-05.46.00:539][728]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.08.08-05.46.00:539][728]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.08.08-05.46.00:539][728]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.08.08-05.46.00:539][728]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.08.08-05.46.00:540][728]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.08.08-05.46.00:540][728]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.08.08-05.46.00:540][728]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.08.08-05.46.00:540][728]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.08.08-05.46.00:540][728]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.08.08-05.46.00:540][728]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.08.08-05.46.00:540][728]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.08.08-05.46.00:540][728]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.08.08-05.46.00:540][728]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.08.08-05.46.00:540][728]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.08.08-05.46.00:540][728]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.08.08-05.46.00:540][728]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.08.08-05.46.00:541][728]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.08.08-05.46.00:541][728]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.08.08-05.46.00:542][728]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.08.08-05.46.00:542][728]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.08.08-05.46.00:548][728]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.08.08-05.46.00:548][728]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.08.08-05.46.00:548][728]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.08.08-05.46.00:548][728]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.08.08-05.46.00:548][728]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.08.08-05.46.00:548][728]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.08.08-05.46.00:548][728]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.08.08-05.46.00:548][728]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.08.08-05.46.00:548][728]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.08.08-05.46.00:548][728]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.08.08-05.46.00:548][728]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.08.08-05.46.00:548][728]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.08.08-05.46.00:548][728]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.08.08-05.46.00:548][728]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.08.08-05.46.00:549][728]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.08.08-05.46.00:549][728]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.08.08-05.46.00:549][728]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.08.08-05.46.00:549][728]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.08.08-05.46.00:550][728]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.08.08-05.46.00:551][728]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.08.08-05.46.00:586][728]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.08.08-05.46.00:586][728]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.08.08-05.46.00:586][728]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9650E683-4533-A106-94C3-31AF0AECAAA3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.1-4233996%2B%2B%2BUE4%2BRelease-4.20&UserID=b5dc48cf467c229f0f483da8d0dad092%7C6965c5421b41487faef8033e69eb902d%7C2e86da2d-aff7-4537-836c-237a39b45f83&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.08.08-05.46.00:586][728]LogHttp: Warning: 00000215DA5091C0: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2018.08.08-05.46.00:586][728]LogHttp: Warning: 00000215DA5091C0: libcurl info message cache 0 (Hostname datarouter.ol.epicgames.com was found in DNS cache)
+[2018.08.08-05.46.00:586][728]LogHttp: Warning: 00000215DA5091C0: libcurl info message cache 1 (  Trying 35.174.140.88...)
+[2018.08.08-05.46.00:586][728]LogHttp: Warning: 00000215DA5091C0: libcurl info message cache 2 (TCP_NODELAY set)
+[2018.08.08-05.46.00:586][728]LogHttp: Warning: 00000215DA5091C0: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (35.174.140.88) port 443 (#4))
+[2018.08.08-05.46.00:586][728]LogHttp: Warning: 00000215DA5091C0: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2018.08.08-05.46.00:586][728]LogHttp: Warning: 00000215DA5091C0: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.08.08-05.46.00:586][728]LogHttp: Warning: 00000215DA5091C0: libcurl info message cache 6 (SSL re-using session ID)
+[2018.08.08-05.46.00:586][728]LogHttp: Warning: 00000215DA5091C0: libcurl info message cache 7 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.08.08-05.46.00:586][728]LogHttp: Warning: 00000215DA5091C0: libcurl info message cache 8 (TLSv1.2 (IN), TLS handshake, Server hello (2):)
+[2018.08.08-05.46.00:586][728]LogHttp: Warning: 00000215DA5091C0: libcurl info message cache 9 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2018.08.08-05.46.00:586][728]LogHttp: Warning: 00000215DA5091C0: libcurl info message cache 10 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2018.08.08-05.46.00:586][728]LogHttp: Warning: 00000215DA5091C0: libcurl info message cache 11 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2018.08.08-05.46.00:586][728]LogHttp: Warning: 00000215DA5091C0: libcurl info message cache 12 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2018.08.08-05.46.00:586][728]LogHttp: Warning: 00000215DA5091C0: libcurl info message cache 13 (TLSv1.2 (OUT), TLS change cipher, Client hello (1):)
+[2018.08.08-05.46.00:586][728]LogHttp: Warning: 00000215DA5091C0: libcurl info message cache 14 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2018.08.08-05.46.00:586][728]LogHttp: Warning: 00000215DA5091C0: libcurl info message cache 15 (TLSv1.2 (IN), TLS change cipher, Client hello (1):)
+[2018.08.08-05.46.00:586][728]LogHttp: Warning: 00000215DA5091C0: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2018.08.08-05.46.00:586][728]LogHttp: Warning: 00000215DA5091C0: libcurl info message cache 17 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2018.08.08-05.46.00:586][728]LogHttp: Warning: 00000215DA5091C0: libcurl info message cache 18 (ALPN, server did not agree to a protocol)
+[2018.08.08-05.46.00:586][728]LogHttp: Warning: 00000215DA5091C0: libcurl info message cache 19 (old SSL session ID is stale, removing)
+[2018.08.08-05.46.00:586][728]LogHttp: Warning: 00000215DA5091C0: libcurl info message cache 20 (Server certificate:)
+[2018.08.08-05.46.00:586][728]LogHttp: Warning: 00000215DA5091C0: libcurl info message cache 21 ( subject: CN=*.ol.epicgames.com)
+[2018.08.08-05.46.00:586][728]LogHttp: Warning: 00000215DA5091C0: libcurl info message cache 22 ( start date: Mar 12 00:00:00 2018 GMT)
+[2018.08.08-05.46.00:586][728]LogHttp: Warning: 00000215DA5091C0: libcurl info message cache 23 ( expire date: Apr 12 12:00:00 2019 GMT)
+[2018.08.08-05.46.00:586][728]LogHttp: Warning: 00000215DA5091C0: libcurl info message cache 24 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "*.ol.epicgames.com")
+[2018.08.08-05.46.00:586][728]LogHttp: Warning: 00000215DA5091C0: libcurl info message cache 25 ( issuer: C=US; O=Amazon; OU=Server CA 1B; CN=Amazon)
+[2018.08.08-05.46.00:586][728]LogHttp: Warning: 00000215DA5091C0: libcurl info message cache 26 ( SSL certificate verify ok.)
+[2018.08.08-05.46.00:586][728]LogHttp: Warning: 00000215DA5091C0: libcurl info message cache 27 (upload completely sent off: 1640 out of 1640 bytes)
+[2018.08.08-05.46.00:587][728]LogHttp: Warning: 00000215DA5091C0: libcurl info message cache 28 (TLSv1.2 (IN), TLS alert, Server hello (2):)
+[2018.08.08-05.46.00:587][728]LogHttp: Warning: 00000215DA5091C0: libcurl info message cache 29 (OpenSSL SSL_read: error:140943FC:SSL routines:ssl3_read_bytes:sslv3 alert bad record mac, errno 0)
+[2018.08.08-05.46.00:587][728]LogHttp: Warning: 00000215DA5091C0: libcurl info message cache 30 (Closing connection 4)
+[2018.08.08-05.46.00:587][728]LogHttp: Warning: 00000215DA5091C0: libcurl info message cache 31 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.08.08-05.46.00:605][728]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.08.08-05.46.00:606][728]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.08.08-05.46.00:606][728]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.08.08-05.46.00:607][728]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.08.08-05.46.00:607][728]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.08.08-05.46.00:607][728]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.08.08-05.46.00:607][728]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.08.08-05.46.00:607][728]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.08.08-05.46.00:607][728]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.08.08-05.46.00:607][728]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.08.08-05.46.00:607][728]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.08.08-05.46.00:607][728]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.08.08-05.46.00:607][728]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.08.08-05.46.00:608][728]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.08.08-05.46.00:608][728]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.08.08-05.46.00:609][728]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.08.08-05.46.00:609][728]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.08.08-05.46.00:609][728]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.08.08-05.46.00:609][728]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.08.08-05.46.00:610][728]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.08.08-05.46.00:610][728]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.08.08-05.46.00:611][728]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.08.08-05.46.00:611][728]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.08.08-05.46.00:611][728]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.08.08-05.46.00:611][728]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.08.08-05.46.00:611][728]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.08.08-05.46.00:611][728]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.08.08-05.46.00:611][728]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.08.08-05.46.00:612][728]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.08.08-05.46.00:612][728]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.08.08-05.46.00:619][728]LogExit: Exiting.
+[2018.08.08-05.46.00:642][728]Log file closed, 08/08/18 14:46:00

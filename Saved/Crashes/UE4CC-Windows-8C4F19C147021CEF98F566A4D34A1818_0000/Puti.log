@@ -1,0 +1,717 @@
+﻿Log file open, 09/05/18 19:16:20
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Puti
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.969930
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.220s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4233996
+LogInit: Engine Version: 4.20.1-4233996+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7920HQ CPU @ 3.10GHz, GPU: Radeon Pro 560
+LogInit: Compiled (64-bit): Jul 26 2018 10:07:30
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.09.05-10.16.21:647][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.05-10.16.21:647][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.09.05-10.16.21:696][  0]LogHAL: Display: Platform has ~ 16 GB [17072091136 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.09.05-10.16.21:696][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.09.05-10.16.21:696][  0]LogInit: Going up to parent DeviceProfile []
+[2018.09.05-10.16.21:705][  0]LogInit: Computer: DESKTOP-K3F18A8
+[2018.09.05-10.16.21:706][  0]LogInit: User: MIYAM
+[2018.09.05-10.16.21:706][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.09.05-10.16.21:706][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2018.09.05-10.16.21:706][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.09.05-10.16.21:706][  0]LogMemory: Platform Memory Stats for Windows
+[2018.09.05-10.16.21:706][  0]LogMemory: Process Physical Memory: 102.28 MB used, 102.28 MB peak
+[2018.09.05-10.16.21:706][  0]LogMemory: Process Virtual Memory: 91.41 MB used, 91.41 MB peak
+[2018.09.05-10.16.21:706][  0]LogMemory: Physical Memory: 4430.18 MB used,  11851.03 MB free, 16281.21 MB total
+[2018.09.05-10.16.21:706][  0]LogMemory: Virtual Memory: 4644.65 MB used,  11851.03 MB free, 134217728.00 MB total
+[2018.09.05-10.16.21:982][  0]LogInit: Using OS detected language (ja-JP).
+[2018.09.05-10.16.21:982][  0]LogInit: Using OS detected locale (ja-JP).
+[2018.09.05-10.16.21:985][  0]LogTextLocalizationManager: No specific localization for 'ja-JP' exists, so the 'ja' localization will be used.
+[2018.09.05-10.16.22:451][  0]LogStreaming: Display: Took  0.469s to InitEngineTextLocalization.
+[2018.09.05-10.16.22:451][  0]LogInit: Setting process to per monitor DPI aware
+[2018.09.05-10.16.22:575][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.09.05-10.16.22:575][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.09.05-10.16.26:529][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.05-10.16.26:529][  0]LogD3D11RHI: D3D11 adapters:
+[2018.09.05-10.16.26:613][  0]LogD3D11RHI:    0. 'Radeon Pro 560' (Feature Level 11_0)
+[2018.09.05-10.16.26:614][  0]LogD3D11RHI:       4044/0/8140 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2018.09.05-10.16.26:618][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.09.05-10.16.26:618][  0]LogD3D11RHI:       0/0/8140 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.09.05-10.16.26:618][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.09.05-10.16.26:632][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.09.05-10.16.26:633][  0]LogD3D11RHI:     GPU DeviceId: 0x67ef (for the marketing name, search the web for "GPU Device Id")
+[2018.09.05-10.16.26:633][  0]LogWindows: EnumDisplayDevices:
+[2018.09.05-10.16.26:633][  0]LogWindows:    0. 'Radeon Pro 560' (P:1 D:1)
+[2018.09.05-10.16.26:634][  0]LogWindows:    1. 'Radeon Pro 560' (P:0 D:0)
+[2018.09.05-10.16.26:635][  0]LogWindows:    2. 'Radeon Pro 560' (P:0 D:0)
+[2018.09.05-10.16.26:636][  0]LogWindows:    3. 'Radeon Pro 560' (P:0 D:0)
+[2018.09.05-10.16.26:637][  0]LogWindows:    4. 'Radeon Pro 560' (P:0 D:0)
+[2018.09.05-10.16.26:638][  0]LogWindows: DebugString: FoundDriverCount:5 
+[2018.09.05-10.16.26:638][  0]LogD3D11RHI:     Adapter Name: Radeon Pro 560
+[2018.09.05-10.16.26:638][  0]LogD3D11RHI:   Driver Version: Crimson ReLive 17.6 (internal:22.19.170.1536, unified:22.19.170.1536)
+[2018.09.05-10.16.26:638][  0]LogD3D11RHI:      Driver Date: 7-20-2017
+[2018.09.05-10.16.26:638][  0]LogRHI: Texture pool is 2830 MB (70% of 4044 MB)
+[2018.09.05-10.16.26:861][  0]LogD3D11RHI: Async texture creation enabled
+[2018.09.05-10.16.26:877][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2018.09.05-10.16.26:879][  0]LogShaderCompilers: Guid format shader working directory is -8 characters bigger than the processId version (../../../../../../Users/MIYAM/OneDrive/デスクトップ/puchicon/Intermediate/Shaders/WorkingDirectory/8172/).
+[2018.09.05-10.16.26:880][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/MIYAM/AppData/Local/Temp/UnrealShaderWorkingDir/DA198D08452A7E2B9F6245927490379D/'.
+[2018.09.05-10.16.27:801][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.09.05-10.16.27:827][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.09.05-10.16.27:852][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.09.05-10.16.27:877][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.09.05-10.16.27:907][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.09.05-10.16.27:942][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.09.05-10.16.27:981][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.09.05-10.16.28:043][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.09.05-10.16.28:078][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.09.05-10.16.28:206][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.05-10.16.28:206][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.05-10.16.28:206][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.05-10.16.28:206][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.05-10.16.28:206][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.05-10.16.28:206][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.05-10.16.28:206][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.05-10.16.28:206][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.05-10.16.28:206][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.05-10.16.28:206][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.05-10.16.28:206][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.05-10.16.28:206][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.05-10.16.28:206][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.05-10.16.28:206][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.05-10.16.28:206][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.05-10.16.28:206][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.05-10.16.28:206][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.05-10.16.28:206][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.05-10.16.28:220][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.09.05-10.16.28:371][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.05-10.16.28:371][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.05-10.16.28:450][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.05-10.16.28:450][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.05-10.16.28:479][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.09.05-10.16.28:527][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.09.05-10.16.28:578][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.09.05-10.16.28:645][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.09.05-10.16.28:690][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.09.05-10.16.28:690][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.09.05-10.16.29:387][  0]LogXGEController: Cleaning working directory: C:/Users/MIYAM/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.09.05-10.16.29:387][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.09.05-10.16.29:387][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.09.05-10.16.29:387][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.09.05-10.16.31:929][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.09.05-10.16.32:540][  0]LogDerivedDataCache: Loaded boot cache 0.61s 71MB C:/Users/MIYAM/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.05-10.16.32:542][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/MIYAM/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.09.05-10.16.32:542][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/MIYAM/OneDrive/デスクトップ/puchicon/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.09.05-10.16.32:542][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.09.05-10.16.32:542][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/MIYAM/OneDrive/デスクトップ/puchicon/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.09.05-10.16.32:542][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.09.05-10.16.32:592][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.09.05-10.16.32:605][  0]LogDerivedDataCache: Using Local data cache path C:/Users/MIYAM/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.09.05-10.16.32:605][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.09.05-10.16.32:605][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.09.05-10.16.32:638][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.09.05-10.16.32:641][  0]LogSlate: Using FreeType 2.6.0
+[2018.09.05-10.16.32:668][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.05-10.16.33:231][  0]LogAssetRegistry: FAssetRegistry took 0.0353 seconds to start up
+[2018.09.05-10.16.33:622][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.05-10.16.34:003][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.09.05-10.16.34:044][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.09.05-10.16.34:044][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.09.05-10.16.34:045][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.09.05-10.16.34:045][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.09.05-10.16.34:089][  0]LogNetVersion: Puti 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2802601270)
+[2018.09.05-10.16.35:247][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.135505 seconds
+[2018.09.05-10.16.35:254][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.09.05-10.16.35:254][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.09.05-10.16.35:254][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.09.05-10.16.40:056][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.09.05-10.16.40:087][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.09.05-10.16.40:668][  0]SourceControl: ソースコントロールは無効です
+[2018.09.05-10.16.40:669][  0]SourceControl: ソースコントロールは無効です
+[2018.09.05-10.16.40:696][  0]SourceControl: ソースコントロールは無効です
+[2018.09.05-10.16.40:717][  0]SourceControl: ソースコントロールは無効です
+[2018.09.05-10.16.41:563][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.09.05-10.16.41:785][  0]LogOcInput: OculusInput pre-init called
+[2018.09.05-10.16.41:968][  0]LogEngine: Initializing Engine...
+[2018.09.05-10.16.41:969][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.05-10.16.41:972][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.05-10.16.41:972][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.05-10.16.41:972][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.05-10.16.41:972][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.05-10.16.42:228][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.09.05-10.16.42:263][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.09.05-10.16.42:276][  0]LogInit: XAudio2 using 'スピーカー (Cirrus Logic CS8409 (AB 57))' : 4 channels at 48 kHz using 32 bits per sample (channel mask 0x33)
+[2018.09.05-10.16.42:304][  0]LogInit: FAudioDevice initialized.
+[2018.09.05-10.16.42:305][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.09.05-10.16.42:364][  0]LogDerivedDataCache: Saved boot cache 0.06s 71MB C:/Users/MIYAM/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.05-10.16.42:378][  0]LogInit: Texture streaming: Enabled
+[2018.09.05-10.16.42:447][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.09.05-10.16.42:484][  0]LogInit: Transaction tracking system initialized
+[2018.09.05-10.16.42:577][  0]BlueprintLog: New page: エディタの読み込み
+[2018.09.05-10.16.43:080][  0]LocalizationService: ローカライズのサービスが無効になりました
+[2018.09.05-10.16.43:739][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.09.05-10.16.43:739][  0]LogCook: Display: Mobile HDR setting 1
+[2018.09.05-10.16.43:739][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.09.05-10.16.43:739][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.05-10.16.43:739][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.05-10.16.43:739][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.05-10.16.43:739][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.05-10.16.43:949][  0]LogFileCache: Scanning file cache for directory 'C:/Users/MIYAM/OneDrive/デスクトップ/puchicon/Content/' took 0.03s
+[2018.09.05-10.16.44:389][  0]SourceControl: ソースコントロールは無効です
+[2018.09.05-10.16.44:389][  0]Cmd: MAP LOAD FILE="../../../../../../Users/MIYAM/OneDrive/デスクトップ/puchicon/Content/Main/Maps/TitleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.05-10.16.44:396][  0]LightingResults: New page: ライティングのビルド
+[2018.09.05-10.16.44:401][  0]MapCheck: New page: マップをチェック
+[2018.09.05-10.16.44:401][  0]LightingResults: New page: <何も選択されていません>
+[2018.09.05-10.16.44:686][  0]LogAIModule: Creating AISystem for world TitleMap
+[2018.09.05-10.16.44:693][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Main/Maps/MainGame) is flushing async loading
+[2018.09.05-10.16.44:694][  0]LogStreaming: Display: Flushing async loaders.
+[2018.09.05-10.16.46:456][  0]LogTexture: Display: Building textures: unreal-engine-4-01 (AutoDXT, 500X500)
+[2018.09.05-10.16.46:908][  0]LogStaticMesh: スタティックメッシュ UEkanban をビルド中...
+[2018.09.05-10.16.46:914][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Main/Object/UEkanban.UEkanban
+[2018.09.05-10.16.47:206][  0]LogMaterial: Display: Missing cached shader map for material M_GrayChan_Logo_Tim, compiling. 
+[2018.09.05-10.16.47:487][  0]LogShaderCompilers: Display: Shaders left to compile 98
+[2018.09.05-10.16.47:487][  0]LogShaderCompilers: Display: Shaders left to compile 88
+[2018.09.05-10.16.47:487][  0]LogShaderCompilers: Display: Shaders left to compile 78
+[2018.09.05-10.16.47:487][  0]LogShaderCompilers: Display: Shaders left to compile 68
+[2018.09.05-10.16.47:487][  0]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.09.05-10.16.47:487][  0]LogMaterial: Display: Missing cached shader map for material M_Statue, compiling. 
+[2018.09.05-10.16.47:605][  0]LogMaterial: Display: Missing cached shader map for material M_Ceramic_Mat, compiling. 
+[2018.09.05-10.16.47:642][  0]LogMaterial: Display: Missing cached shader map for material M_Mug, compiling. 
+[2018.09.05-10.16.47:678][  0]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2018.09.05-10.16.47:714][  0]LogMaterial: Display: Missing cached shader map for material Material_001, compiling. 
+[2018.09.05-10.16.47:738][  0]LogMaterial: Display: Missing cached shader map for material Material_002, compiling. 
+[2018.09.05-10.16.47:775][  0]LogMaterial: Display: Missing cached shader map for material M_Background_dome, compiling. 
+[2018.09.05-10.16.47:781][  0]LogMaterial: Display: Missing cached shader map for material M_CoffeeRings, compiling. 
+[2018.09.05-10.16.47:813][  0]LogMaterial: Display: Missing cached shader map for material M_Painting_3, compiling. 
+[2018.09.05-10.16.47:835][  0]LogMaterial: Display: Missing cached shader map for material M_Wire, compiling. 
+[2018.09.05-10.16.47:855][  0]LogMaterial: Display: Missing cached shader map for material M_Curtain_MAT, compiling. 
+[2018.09.05-10.16.47:893][  0]LogMaterial: Display: Missing cached shader map for material M_FloorLamp_Mat, compiling. 
+[2018.09.05-10.16.47:921][  0]LogMaterial: Display: Missing cached shader map for material M_RoundCeilingLight_Mat, compiling. 
+[2018.09.05-10.16.47:955][  0]LogMaterial: Display: Missing cached shader map for material M_Tiles_Mat, compiling. 
+[2018.09.05-10.16.47:986][  0]LogMaterial: Display: Missing cached shader map for material M_WallPainExterior_MAT, compiling. 
+[2018.09.05-10.16.48:008][  0]LogMaterial: Display: Missing cached shader map for material M_Carptet_Mat, compiling. 
+[2018.09.05-10.16.48:104][  0]LogMaterial: Display: Missing cached shader map for material M_Book_Mat, compiling. 
+[2018.09.05-10.16.48:143][  0]LogMaterial: Display: Missing cached shader map for material M_Coathook, compiling. 
+[2018.09.05-10.16.48:175][  0]LogMaterial: Display: Missing cached shader map for material M_CoathookBack, compiling. 
+[2018.09.05-10.16.48:223][  0]LogMaterial: Display: Missing cached shader map for material M_Plug, compiling. 
+[2018.09.05-10.16.48:271][  0]LogMaterial: Display: Missing cached shader map for material M_WoodFloor_MAT, compiling. 
+[2018.09.05-10.16.48:309][  0]LogMaterial: Display: Missing cached shader map for material M_Background_Mat, compiling. 
+[2018.09.05-10.16.48:322][  0]LogMaterial: Display: Missing cached shader map for material M_WallPainInterior_MAT, compiling. 
+[2018.09.05-10.16.48:360][  0]LogMaterial: Display: Missing cached shader map for material M_Black_MAT, compiling. 
+[2018.09.05-10.16.48:427][  0]LogMaterial: Display: Missing cached shader map for material M_CoffeTable_MAT, compiling. 
+[2018.09.05-10.16.48:469][  0]LogMaterial: Display: Missing cached shader map for material M_Couch_NOSSS_Mat, compiling. 
+[2018.09.05-10.16.48:500][  0]LogMaterial: Display: Missing cached shader map for material M_DeskLamp_Mat, compiling. 
+[2018.09.05-10.16.48:540][  0]LogMaterial: Display: Missing cached shader map for material M_Door_MAT, compiling. 
+[2018.09.05-10.16.48:590][  0]LogMaterial: Display: Missing cached shader map for material M_Painting_1, compiling. 
+[2018.09.05-10.16.48:613][  0]LogMaterial: Display: Missing cached shader map for material M_PlantBark_Mat, compiling. 
+[2018.09.05-10.16.48:736][  0]LogMaterial: Display: Missing cached shader map for material M_PlantLeaf_Mat, compiling. 
+[2018.09.05-10.16.48:782][  0]LogMaterial: Display: Missing cached shader map for material M_PlantPot_Mat, compiling. 
+[2018.09.05-10.16.48:822][  0]LogMaterial: Display: Missing cached shader map for material M_Railing_MAT, compiling. 
+[2018.09.05-10.16.48:877][  0]LogMaterial: Display: Missing cached shader map for material M_Shelving, compiling. 
+[2018.09.05-10.16.48:909][  0]LogMaterial: Display: Missing cached shader map for material M_Glas_MAt, compiling. 
+[2018.09.05-10.16.49:004][  0]LogMaterial: Display: Missing cached shader map for material M_SlidingDoor_Mat, compiling. 
+[2018.09.05-10.16.49:042][  0]LogMaterial: Display: Missing cached shader map for material M_Socket, compiling. 
+[2018.09.05-10.16.49:079][  0]LogMaterial: Display: Missing cached shader map for material M_TV, compiling. 
+[2018.09.05-10.16.49:156][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Main/Maps/ResultMap) is flushing async loading
+[2018.09.05-10.16.49:221][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.05-10.16.49:264][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.05-10.16.49:490][  0]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 226.36ミリ秒かかりました。
+[2018.09.05-10.16.49:490][  0]LogFileHelpers: Loading map 'TitleMap' took 5.101
+[2018.09.05-10.16.49:668][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.05-10.16.49:678][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.05-10.16.49:691][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.05-10.16.49:705][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.05-10.16.49:749][  0]LogCollectionManager: Loaded 0 collections in 0.004241 seconds
+[2018.09.05-10.16.49:795][  0]LogFileCache: Scanning file cache for directory 'C:/Users/MIYAM/OneDrive/デスクトップ/puchicon/Saved/Collections/' took 0.01s
+[2018.09.05-10.16.49:795][  0]LogFileCache: Scanning file cache for directory 'C:/Users/MIYAM/OneDrive/デスクトップ/puchicon/Content/Developers/MIYAM/Collections/' took 0.01s
+[2018.09.05-10.16.49:795][  0]LogFileCache: Scanning file cache for directory 'C:/Users/MIYAM/OneDrive/デスクトップ/puchicon/Content/Collections/' took 0.01s
+[2018.09.05-10.16.49:795][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.09.05-10.16.49:811][  0]LogContentBrowser: Native class hierarchy populated in 0.0151 seconds. Added 2572 classes and 603 folders.
+[2018.09.05-10.16.49:823][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.09.05-10.16.50:500][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.09.05-10.16.50:529][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.09.05-10.16.50:717][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.09.05-10.16.50:718][  0]LogLoad: (Engine Initialization) Total time: 38.67 seconds
+[2018.09.05-10.16.50:718][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.09.05-10.16.50:773][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2018.09.05-10.16.50:782][  0]LogSlate: Took 0.006630 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.09.05-10.16.50:795][  0]LogSlate: Took 0.011719 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Regular.otf' (707K)
+[2018.09.05-10.16.50:809][  0]LogSlate: Took 0.011549 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Bold.otf' (698K)
+[2018.09.05-10.16.50:814][  0]LogSlate: Took 0.005309 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.09.05-10.16.50:826][  0]LogSlate: Took 0.008173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.09.05-10.16.51:175][  1]LogRenderer: Reallocating scene render targets to support 676x328 Format 10 NumSamples 1 (Frame:1).
+[2018.09.05-10.16.51:185][  1]LogShaderCompilers: Display: Shaders left to compile 1201
+[2018.09.05-10.16.51:332][  3]LogRenderer: Reallocating scene render targets to support 676x412 Format 10 NumSamples 1 (Frame:2).
+[2018.09.05-10.16.51:370][  3]LogAssetRegistry: Asset discovery search completed in 18.1625 seconds
+[2018.09.05-10.16.51:374][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.09.05-10.16.51:374][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000115 seconds (updated 0 objects)
+[2018.09.05-10.16.51:837][ 11]LogSlate: Took 0.010619 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Light.otf' (713K)
+[2018.09.05-10.16.51:845][ 11]LogSlate: Took 0.007943 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.05-10.16.51:865][ 13]LogShaderCompilers: Display: Shaders left to compile 1191
+[2018.09.05-10.16.52:875][ 71]LogShaderCompilers: Display: Shaders left to compile 1181
+[2018.09.05-10.16.52:942][ 75]LogShaderCompilers: Display: Shaders left to compile 1171
+[2018.09.05-10.16.52:998][ 78]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.05-10.16.54:618][168]LogShaderCompilers: Display: Shaders left to compile 1161
+[2018.09.05-10.16.54:883][184]LogShaderCompilers: Display: Shaders left to compile 1151
+[2018.09.05-10.16.55:029][186]LogRenderer: Reallocating scene render targets to support 1028x656 Format 10 NumSamples 1 (Frame:106).
+[2018.09.05-10.16.55:752][226]LogShaderCompilers: Display: Shaders left to compile 1141
+[2018.09.05-10.16.56:135][248]LogShaderCompilers: Display: Shaders left to compile 1131
+[2018.09.05-10.16.57:160][283]LogShaderCompilers: Display: Shaders left to compile 1121
+[2018.09.05-10.16.57:577][295]LogShaderCompilers: Display: Shaders left to compile 1111
+[2018.09.05-10.16.59:223][343]LogShaderCompilers: Display: Shaders left to compile 1101
+[2018.09.05-10.16.59:234][343]LogShaderCompilers: Display: Shaders left to compile 1091
+[2018.09.05-10.16.59:254][344]LogShaderCompilers: Display: Shaders left to compile 1081
+[2018.09.05-10.17.00:698][388]LogShaderCompilers: Display: Shaders left to compile 1071
+[2018.09.05-10.17.01:424][410]LogShaderCompilers: Display: Shaders left to compile 1061
+[2018.09.05-10.17.02:423][470]LogShaderCompilers: Display: Shaders left to compile 1051
+[2018.09.05-10.17.02:944][501]LogShaderCompilers: Display: Shaders left to compile 1041
+[2018.09.05-10.17.03:198][516]LogShaderCompilers: Display: Shaders left to compile 1031
+[2018.09.05-10.17.04:155][573]LogShaderCompilers: Display: Shaders left to compile 1021
+[2018.09.05-10.17.05:049][626]LogShaderCompilers: Display: Shaders left to compile 1011
+[2018.09.05-10.17.05:932][679]LogShaderCompilers: Display: Shaders left to compile 1001
+[2018.09.05-10.17.06:458][710]LogShaderCompilers: Display: Shaders left to compile 991
+[2018.09.05-10.17.06:458][710]LogShaderCompilers: Display: Shaders left to compile 981
+[2018.09.05-10.17.07:662][782]LogShaderCompilers: Display: Shaders left to compile 971
+[2018.09.05-10.17.08:444][828]LogShaderCompilers: Display: Shaders left to compile 961
+[2018.09.05-10.17.08:662][841]LogShaderCompilers: Display: Shaders left to compile 951
+[2018.09.05-10.17.08:887][855]LogShaderCompilers: Display: Shaders left to compile 941
+[2018.09.05-10.17.10:933][977]LogShaderCompilers: Display: Shaders left to compile 931
+[2018.09.05-10.17.10:967][979]LogShaderCompilers: Display: Shaders left to compile 921
+[2018.09.05-10.17.11:105][985]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer
+[2018.09.05-10.17.11:704][985]LogShaderCompilers: Display: Shaders left to compile 911
+[2018.09.05-10.17.11:933][985]LogShaderCompilers: Display: Shaders left to compile 901
+[2018.09.05-10.17.11:933][985]LogSlate: Took 0.007903 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.09.05-10.17.13:395][ 48]LogShaderCompilers: Display: Shaders left to compile 891
+[2018.09.05-10.17.13:927][ 73]LogShaderCompilers: Display: Shaders left to compile 881
+[2018.09.05-10.17.14:398][ 96]LogShaderCompilers: Display: Shaders left to compile 871
+[2018.09.05-10.17.15:568][140]LogShaderCompilers: Display: Shaders left to compile 861
+[2018.09.05-10.17.15:886][153]LogShaderCompilers: Display: Shaders left to compile 851
+[2018.09.05-10.17.17:351][222]LogShaderCompilers: Display: Shaders left to compile 841
+[2018.09.05-10.17.17:874][246]LogShaderCompilers: Display: Shaders left to compile 831
+[2018.09.05-10.17.18:097][253]LogShaderCompilers: Display: Shaders left to compile 821
+[2018.09.05-10.17.19:324][300]LogShaderCompilers: Display: Shaders left to compile 811
+[2018.09.05-10.17.20:372][352]LogShaderCompilers: Display: Shaders left to compile 801
+[2018.09.05-10.17.20:778][369]LogShaderCompilers: Display: Shaders left to compile 791
+[2018.09.05-10.17.21:686][410]LogShaderCompilers: Display: Shaders left to compile 781
+[2018.09.05-10.17.22:736][454]LogShaderCompilers: Display: Shaders left to compile 771
+[2018.09.05-10.17.23:332][472]LogShaderCompilers: Display: Shaders left to compile 761
+[2018.09.05-10.17.24:116][494]LogShaderCompilers: Display: Shaders left to compile 751
+[2018.09.05-10.17.24:875][519]LogShaderCompilers: Display: Shaders left to compile 741
+[2018.09.05-10.17.25:499][539]LogMaterial: Display: Missing cached shader map for material Material_085, compiling. 
+[2018.09.05-10.17.25:519][539]LogMaterial: Display: Missing cached shader map for material Material_044, compiling. 
+[2018.09.05-10.17.25:543][539]LogMaterial: Display: Missing cached shader map for material Material_087, compiling. 
+[2018.09.05-10.17.25:561][539]LogStaticMesh: スタティックメッシュ Box をビルド中...
+[2018.09.05-10.17.25:577][539]LogStaticMesh: Built static mesh [0.02s] /Game/Main/Object/Box.Box
+[2018.09.05-10.17.25:596][539]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Main/Object/Box.Box
+[2018.09.05-10.17.26:001][539]LogShaderCompilers: Display: Shaders left to compile 797
+[2018.09.05-10.17.26:365][547]LogShaderCompilers: Display: Shaders left to compile 787
+[2018.09.05-10.17.26:518][553]LogShaderCompilers: Display: Shaders left to compile 777
+[2018.09.05-10.17.27:370][584]LogShaderCompilers: Display: Shaders left to compile 767
+[2018.09.05-10.17.28:262][616]LogShaderCompilers: Display: Shaders left to compile 757
+[2018.09.05-10.17.30:415][687]LogShaderCompilers: Display: Shaders left to compile 747
+[2018.09.05-10.17.30:803][706]LogShaderCompilers: Display: Shaders left to compile 737
+[2018.09.05-10.17.30:826][707]LogShaderCompilers: Display: Shaders left to compile 727
+[2018.09.05-10.17.31:387][734]LogSlate: Window '1M_Cube_Chamfer' being destroyed
+[2018.09.05-10.17.31:671][741]LogShaderCompilers: Display: Shaders left to compile 717
+[2018.09.05-10.17.33:674][822]LogShaderCompilers: Display: Shaders left to compile 707
+[2018.09.05-10.17.34:034][834]LogShaderCompilers: Display: Shaders left to compile 697
+[2018.09.05-10.17.34:554][851]LogShaderCompilers: Display: Shaders left to compile 687
+[2018.09.05-10.17.35:640][889]LogShaderCompilers: Display: Shaders left to compile 677
+[2018.09.05-10.17.36:487][918]LogShaderCompilers: Display: Shaders left to compile 667
+[2018.09.05-10.17.36:833][930]LogShaderCompilers: Display: Shaders left to compile 657
+[2018.09.05-10.17.38:017][970]LogShaderCompilers: Display: Shaders left to compile 647
+[2018.09.05-10.17.38:675][993]LogShaderCompilers: Display: Shaders left to compile 637
+[2018.09.05-10.17.39:099][ 11]LogShaderCompilers: Display: Shaders left to compile 627
+[2018.09.05-10.17.40:588][ 92]LogShaderCompilers: Display: Shaders left to compile 617
+[2018.09.05-10.17.41:180][127]LogShaderCompilers: Display: Shaders left to compile 607
+[2018.09.05-10.17.41:212][128]LogShaderCompilers: Display: Shaders left to compile 597
+[2018.09.05-10.17.42:982][219]LogShaderCompilers: Display: Shaders left to compile 587
+[2018.09.05-10.17.43:362][241]LogShaderCompilers: Display: Shaders left to compile 577
+[2018.09.05-10.17.43:880][272]LogShaderCompilers: Display: Shaders left to compile 567
+[2018.09.05-10.17.43:960][276]LogShaderCompilers: Display: Shaders left to compile 557
+[2018.09.05-10.17.45:688][380]LogShaderCompilers: Display: Shaders left to compile 547
+[2018.09.05-10.17.46:691][440]LogShaderCompilers: Display: Shaders left to compile 537
+[2018.09.05-10.17.46:943][455]LogShaderCompilers: Display: Shaders left to compile 527
+[2018.09.05-10.17.47:464][486]LogShaderCompilers: Display: Shaders left to compile 517
+[2018.09.05-10.17.48:766][564]LogShaderCompilers: Display: Shaders left to compile 507
+[2018.09.05-10.17.49:315][596]LogShaderCompilers: Display: Shaders left to compile 497
+[2018.09.05-10.17.50:555][670]LogShaderCompilers: Display: Shaders left to compile 487
+[2018.09.05-10.17.51:250][705]LogShaderCompilers: Display: Shaders left to compile 477
+[2018.09.05-10.17.51:490][718]LogShaderCompilers: Display: Shaders left to compile 467
+[2018.09.05-10.17.53:098][784]LogShaderCompilers: Display: Shaders left to compile 457
+[2018.09.05-10.17.53:899][826]LogShaderCompilers: Display: Shaders left to compile 447
+[2018.09.05-10.17.54:646][871]LogShaderCompilers: Display: Shaders left to compile 437
+[2018.09.05-10.17.54:673][872]LogShaderCompilers: Display: Shaders left to compile 427
+[2018.09.05-10.17.55:190][902]LogAssetEditorManager: Opening Asset editor for World /Game/Main/Maps/MainGame.MainGame
+[2018.09.05-10.17.55:221][902]Cmd: MAP LOAD FILE="../../../../../../Users/MIYAM/OneDrive/デスクトップ/puchicon/Content/Main/Maps/MainGame.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.05-10.17.55:221][902]LightingResults: New page: ライティングのビルド
+[2018.09.05-10.17.55:222][902]LoadErrors: New page: マップをロード中: MainGame.umap
+[2018.09.05-10.17.55:223][902]MapCheck: New page: マップをチェック
+[2018.09.05-10.17.55:223][902]LightingResults: New page: <何も選択されていません>
+[2018.09.05-10.17.55:254][902]LogAIModule: Creating AISystem for world MainGame
+[2018.09.05-10.17.55:485][902]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.05-10.17.55:622][902]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.05-10.17.55:860][902]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 238.016ミリ秒かかりました。
+[2018.09.05-10.17.55:862][902]LogFileHelpers: Loading map 'MainGame' took 0.643
+[2018.09.05-10.17.56:980][944]LogShaderCompilers: Display: Shaders left to compile 417
+[2018.09.05-10.17.57:514][974]LogShaderCompilers: Display: Shaders left to compile 407
+[2018.09.05-10.17.58:431][ 18]LogShaderCompilers: Display: Shaders left to compile 397
+[2018.09.05-10.17.58:699][ 30]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Shelving11)
+[2018.09.05-10.17.58:807][ 30]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.05-10.17.59:419][ 64]LogShaderCompilers: Display: Shaders left to compile 387
+[2018.09.05-10.17.59:571][ 72]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Shelving11)
+[2018.09.05-10.18.00:238][102]LogShaderCompilers: Display: Shaders left to compile 377
+[2018.09.05-10.18.00:680][125]LogShaderCompilers: Display: Shaders left to compile 367
+[2018.09.05-10.18.01:608][173]LogShaderCompilers: Display: Shaders left to compile 357
+[2018.09.05-10.18.01:852][184]LogShaderCompilers: Display: Shaders left to compile 347
+[2018.09.05-10.18.03:954][283]LogShaderCompilers: Display: Shaders left to compile 337
+[2018.09.05-10.18.04:252][297]LogShaderCompilers: Display: Shaders left to compile 327
+[2018.09.05-10.18.04:375][303]LogShaderCompilers: Display: Shaders left to compile 317
+[2018.09.05-10.18.04:941][327]LogShaderCompilers: Display: Shaders left to compile 307
+[2018.09.05-10.18.05:650][359]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.05-10.18.05:754][365]LogTemp: Repeating last play command: 選択ビューポート
+[2018.09.05-10.18.05:800][365]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Main/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Main/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Main/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Main/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.09.05-10.18.05:800][365]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.05-10.18.05:822][365]PIE: New page: PIEセッション: MainGame (2018/09/06 4:18:05)
+[2018.09.05-10.18.05:822][365]LogPlayLevel: Creating play world package: /Game/Main/Maps/UEDPIE_0_MainGame
+[2018.09.05-10.18.05:888][365]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065638s)
+[2018.09.05-10.18.05:889][365]LogAIModule: Creating AISystem for world MainGame
+[2018.09.05-10.18.05:889][365]LogPlayLevel: PIE: World Init took: (0.001152s)
+[2018.09.05-10.18.05:889][365]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main/Maps/MainGame.MainGame to /Game/Main/Maps/UEDPIE_0_MainGame.MainGame (0.067345s)
+[2018.09.05-10.18.05:927][365]LogInit: XAudio2 using 'スピーカー (Cirrus Logic CS8409 (AB 57))' : 4 channels at 48 kHz using 32 bits per sample (channel mask 0x33)
+[2018.09.05-10.18.05:937][365]LogInit: FAudioDevice initialized.
+[2018.09.05-10.18.05:990][365]LogLoad: Game class is 'MainGameMode_C'
+[2018.09.05-10.18.06:010][365]LogWorld: Bringing World /Game/Main/Maps/UEDPIE_0_MainGame.MainGame up for play (max tick rate 60) at 2018.09.05-19.18.06
+[2018.09.05-10.18.06:012][365]LogWorld: Bringing up level for play took: 0.019993
+[2018.09.05-10.18.06:035][365]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 10 classes and 0 folders.
+[2018.09.05-10.18.06:035][365]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.09.05-10.18.06:035][365]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.09.05-10.18.06:035][365]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.09.05-10.18.06:042][365]LogLevel: Warning: Failed to find streaming level object associated with 'ResultMap'
+[2018.09.05-10.18.06:042][365]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.09.05-10.18.06:042][365]PIE: /Game/Main/Maps/UEDPIE_0_MainGame 0.956のプレイ イン エディタの開始時間
+[2018.09.05-10.18.06:043][365]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Main/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Main/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Main/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Main/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.09.05-10.18.06:096][365]LogSlate: Took 0.026309 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.09.05-10.18.06:242][371]LogShaderCompilers: Display: Shaders left to compile 297
+[2018.09.05-10.18.06:812][397]LogShaderCompilers: Display: Shaders left to compile 287
+[2018.09.05-10.18.08:340][467]LogShaderCompilers: Display: Shaders left to compile 277
+[2018.09.05-10.18.08:393][470]LogShaderCompilers: Display: Shaders left to compile 267
+[2018.09.05-10.18.08:643][481]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Main/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Main/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Main/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Main/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.09.05-10.18.08:644][481]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.05-10.18.08:702][481]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.05-10.18.08:702][481]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Main/Maps/MainGame.MainGame:PersistentLevel' has LevelScriptBlueprint '/Game/Main/Maps/MainGame.MainGame:PersistentLevel.MainGame' with GeneratedClass '/Game/Main/Maps/MainGame.MainGame_C' with ClassGeneratedBy '/Game/Main/Maps/MainGame.MainGame:PersistentLevel.MainGame'
+[2018.09.05-10.18.08:732][481]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.05-10.18.08:785][482]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2018.09.05-10.18.08:998][492]LogShaderCompilers: Display: Shaders left to compile 257
+[2018.09.05-10.18.10:581][568]LogShaderCompilers: Display: Shaders left to compile 247
+[2018.09.05-10.18.10:830][580]LogShaderCompilers: Display: Shaders left to compile 237
+[2018.09.05-10.18.12:689][668]LogShaderCompilers: Display: Shaders left to compile 227
+[2018.09.05-10.18.12:768][672]LogShaderCompilers: Display: Shaders left to compile 217
+[2018.09.05-10.18.13:567][715]LogShaderCompilers: Display: Shaders left to compile 207
+[2018.09.05-10.18.14:670][775]LogShaderCompilers: Display: Shaders left to compile 197
+[2018.09.05-10.18.15:916][841]LogShaderCompilers: Display: Shaders left to compile 187
+[2018.09.05-10.18.15:963][844]LogShaderCompilers: Display: Shaders left to compile 177
+[2018.09.05-10.18.16:773][888]LogShaderCompilers: Display: Shaders left to compile 167
+[2018.09.05-10.18.28:897][472]LogShaderCompilers: Display: Shaders left to compile 157
+[2018.09.05-10.18.31:359][585]LogShaderCompilers: Display: Shaders left to compile 147
+[2018.09.05-10.18.32:364][631]LogShaderCompilers: Display: Shaders left to compile 137
+[2018.09.05-10.18.33:847][699]LogShaderCompilers: Display: Shaders left to compile 127
+[2018.09.05-10.18.34:320][721]LogShaderCompilers: Display: Shaders left to compile 117
+[2018.09.05-10.18.35:199][760]LogShaderCompilers: Display: Shaders left to compile 107
+[2018.09.05-10.18.35:721][784]LogShaderCompilers: Display: Shaders left to compile 97
+[2018.09.05-10.18.36:202][807]LogShaderCompilers: Display: Shaders left to compile 87
+[2018.09.05-10.18.37:851][883]LogShaderCompilers: Display: Shaders left to compile 77
+[2018.09.05-10.18.38:029][891]LogShaderCompilers: Display: Shaders left to compile 67
+[2018.09.05-10.18.38:720][922]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.09.05-10.18.40:002][981]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.09.05-10.18.40:174][989]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.09.05-10.18.41:781][ 63]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.09.05-10.18.42:267][ 86]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.05-10.18.42:503][ 97]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.05-10.19.14:719][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.05-10.19.19:759][694]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Shelving8)
+[2018.09.05-10.19.19:821][694]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.05-10.19.20:769][734]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Shelving8)
+[2018.09.05-10.19.29:895][993]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.05-11.57.21:569][929]LogHttp: Warning: 00000201342E25C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.05-11.57.21:569][929]LogHttp: Warning: 00000201342E25C0: libcurl info message cache 0 (Connection 22 seems to be dead!)
+[2018.09.05-11.57.21:569][929]LogHttp: Warning: 00000201342E25C0: libcurl info message cache 1 (Closing connection 22)
+[2018.09.05-11.57.21:569][929]LogHttp: Warning: 00000201342E25C0: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.05-11.57.21:569][929]LogHttp: Warning: 00000201342E25C0: libcurl info message cache 3 (Closing connection 23)
+[2018.09.05-11.59.22:127][288]LogHttp: Warning: 00000201342E0A40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.05-11.59.22:127][288]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.05-11.59.22:127][288]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 1 (Closing connection 24)
+[2018.09.05-12.01.22:695][647]LogHttp: Warning: 00000201342E0A40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.05-12.01.22:695][647]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.05-12.01.22:695][647]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 1 (Closing connection 25)
+[2018.09.05-12.03.23:264][  6]LogHttp: Warning: 00000201342E0A40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.05-12.03.23:264][  6]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.05-12.03.23:264][  6]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 1 (Closing connection 26)
+[2018.09.05-12.05.23:809][365]LogHttp: Warning: 00000201342E0A40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.05-12.05.23:809][365]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.05-12.05.23:809][365]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 1 (Closing connection 27)
+[2018.09.05-12.07.24:380][724]LogHttp: Warning: 00000201342E0A40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.05-12.07.24:380][724]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.05-12.07.24:380][724]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 1 (Closing connection 28)
+[2018.09.05-12.09.24:899][ 83]LogHttp: Warning: 00000201342E0A40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.05-12.09.24:900][ 83]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.05-12.09.24:900][ 83]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 1 (Closing connection 29)
+[2018.09.05-12.11.25:492][442]LogHttp: Warning: 00000201342E0A40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.05-12.11.25:492][442]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.05-12.11.25:492][442]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 1 (Closing connection 30)
+[2018.09.05-12.13.26:052][801]LogHttp: Warning: 00000201342E0A40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.05-12.13.26:052][801]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.05-12.13.26:052][801]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 1 (Closing connection 31)
+[2018.09.05-12.15.26:622][160]LogHttp: Warning: 00000201342E0A40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.05-12.15.26:622][160]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.05-12.15.26:622][160]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 1 (Closing connection 32)
+[2018.09.05-12.17.27:261][519]LogHttp: Warning: 00000201342E0A40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.05-12.17.27:261][519]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.05-12.17.27:261][519]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 1 (Closing connection 33)
+[2018.09.05-12.19.27:845][878]LogHttp: Warning: 00000201342E0A40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.05-12.19.27:845][878]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.05-12.19.27:845][878]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 1 (Closing connection 34)
+[2018.09.05-12.21.28:440][237]LogHttp: Warning: 00000201342E0A40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.05-12.21.28:440][237]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.05-12.21.28:441][237]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 1 (Closing connection 35)
+[2018.09.05-12.23.29:073][596]LogHttp: Warning: 00000201342E0A40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.05-12.23.29:073][596]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.05-12.23.29:073][596]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 1 (Closing connection 36)
+[2018.09.05-12.25.29:694][955]LogHttp: Warning: 00000201342E0A40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.05-12.25.29:694][955]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.05-12.25.29:695][955]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 1 (Closing connection 37)
+[2018.09.05-12.27.30:364][314]LogHttp: Warning: 00000201342E0A40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.05-12.27.30:364][314]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.05-12.27.30:364][314]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 1 (Closing connection 38)
+[2018.09.05-12.29.30:916][673]LogHttp: Warning: 00000201342E0A40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.05-12.29.30:916][673]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.05-12.29.30:916][673]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 1 (Closing connection 39)
+[2018.09.05-12.31.31:278][ 31]LogHttp: Warning: 00000201342E0A40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.05-12.31.31:278][ 31]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.05-12.31.31:278][ 31]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 1 (Closing connection 40)
+[2018.09.05-12.33.31:948][390]LogHttp: Warning: 00000201342E0A40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.05-12.33.31:948][390]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.05-12.33.31:948][390]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 1 (Closing connection 41)
+[2018.09.05-12.35.32:332][748]LogHttp: Warning: 00000201342E0A40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.05-12.35.32:332][748]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.05-12.35.32:332][748]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 1 (Closing connection 42)
+[2018.09.05-12.37.32:903][107]LogHttp: Warning: 00000201342E0A40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.05-12.37.32:903][107]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.05-12.37.32:903][107]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 1 (Closing connection 43)
+[2018.09.05-12.39.33:565][466]LogHttp: Warning: 00000201342E0A40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.05-12.39.33:565][466]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.05-12.39.33:565][466]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 1 (Closing connection 44)
+[2018.09.05-12.41.34:154][825]LogHttp: Warning: 00000201342E0A40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.05-12.41.34:154][825]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.05-12.41.34:154][825]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 1 (Closing connection 45)
+[2018.09.05-12.43.34:815][184]LogHttp: Warning: 00000201342E0A40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.05-12.43.34:815][184]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.05-12.43.34:815][184]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 1 (Closing connection 46)
+[2018.09.05-12.45.35:168][542]LogHttp: Warning: 00000201342E0A40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.05-12.45.35:168][542]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.05-12.45.35:168][542]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 1 (Closing connection 47)
+[2018.09.05-12.47.35:599][900]LogHttp: Warning: 00000201342E0A40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.05-12.47.35:599][900]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.05-12.47.35:599][900]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 1 (Closing connection 48)
+[2018.09.05-12.49.35:957][258]LogHttp: Warning: 00000201342E0A40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.05-12.49.35:957][258]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.05-12.49.35:957][258]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 1 (Closing connection 49)
+[2018.09.05-12.51.36:397][616]LogHttp: Warning: 00000201342E0A40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.05-12.51.36:397][616]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.05-12.51.36:397][616]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 1 (Closing connection 50)
+[2018.09.05-12.53.37:029][975]LogHttp: Warning: 00000201342E0A40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.05-12.53.37:029][975]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.05-12.53.37:029][975]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 1 (Closing connection 51)
+[2018.09.05-12.55.37:659][334]LogHttp: Warning: 00000201342E0A40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.05-12.55.37:659][334]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.05-12.55.37:659][334]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 1 (Closing connection 52)
+[2018.09.05-12.57.38:307][693]LogHttp: Warning: 00000201342E0A40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.05-12.57.38:307][693]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.05-12.57.38:307][693]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 1 (Closing connection 53)
+[2018.09.05-12.59.38:696][ 51]LogHttp: Warning: 00000201342E0A40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.05-12.59.38:696][ 51]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.05-12.59.38:696][ 51]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 1 (Closing connection 54)
+[2018.09.05-13.01.39:071][409]LogHttp: Warning: 00000201342E0A40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.05-13.01.39:071][409]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.05-13.01.39:072][409]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 1 (Closing connection 55)
+[2018.09.05-13.03.39:424][767]LogHttp: Warning: 00000201342E0A40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.05-13.03.39:424][767]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.05-13.03.39:424][767]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 1 (Closing connection 56)
+[2018.09.05-13.05.39:763][125]LogHttp: Warning: 00000201342E0A40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.05-13.05.39:763][125]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.05-13.05.39:764][125]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 1 (Closing connection 57)
+[2018.09.05-13.07.40:417][484]LogHttp: Warning: 00000201342E0A40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.05-13.07.40:417][484]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.05-13.07.40:417][484]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 1 (Closing connection 58)
+[2018.09.05-13.09.41:036][843]LogHttp: Warning: 00000201342E0A40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.05-13.09.41:036][843]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.05-13.09.41:036][843]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 1 (Closing connection 59)
+[2018.09.05-13.11.41:608][202]LogHttp: Warning: 00000201342E0A40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.05-13.11.41:608][202]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.05-13.11.41:608][202]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 1 (Closing connection 60)
+[2018.09.05-13.13.41:952][560]LogHttp: Warning: 00000201342E0A40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.05-13.13.41:952][560]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.05-13.13.41:952][560]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 1 (Closing connection 61)
+[2018.09.05-13.15.42:589][919]LogHttp: Warning: 00000201342E0A40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.05-13.15.42:589][919]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.05-13.15.42:589][919]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 1 (Closing connection 62)
+[2018.09.05-13.17.43:232][278]LogHttp: Warning: 00000201342E0A40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.05-13.17.43:232][278]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.05-13.17.43:232][278]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 1 (Closing connection 63)
+[2018.09.05-13.19.43:881][637]LogHttp: Warning: 00000201342E0A40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.05-13.19.43:881][637]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.05-13.19.43:881][637]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 1 (Closing connection 64)
+[2018.09.05-13.21.44:288][995]LogHttp: Warning: 00000201342E0A40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.05-13.21.44:288][995]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.05-13.21.44:288][995]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 1 (Closing connection 65)
+[2018.09.05-13.23.44:902][354]LogHttp: Warning: 00000201342E0A40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.05-13.23.44:902][354]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.05-13.23.44:902][354]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 1 (Closing connection 66)
+[2018.09.05-13.25.45:318][712]LogHttp: Warning: 00000201342E0A40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.05-13.25.45:318][712]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.05-13.25.45:318][712]LogHttp: Warning: 00000201342E0A40: libcurl info message cache 1 (Closing connection 67)
+[2018.09.05-13.26.09:858][783]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.09.05-13.26.10:858][783]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.09.05-13.26.11:056][784]LogD3D11RHI: Error: Result failed 
+ at D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Viewport.cpp:304 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_HUNG
+[2018.09.05-13.26.11:056][784]LogD3D11RHI: [Aftermath] GDynamicRHI=0000020123BDC180, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2018.09.05-13.26.11:056][784]LogWindows: Windows GetLastError: この操作を正しく終了しました。 (0)

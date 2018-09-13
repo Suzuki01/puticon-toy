@@ -1,0 +1,636 @@
+﻿Log file open, 09/13/18 17:06:40
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Puti
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.407441
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.093s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4233996
+LogInit: Engine Version: 4.20.1-4233996+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Jul 26 2018 10:07:30
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/UnrealEngine/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.09.13-08.06.40:452][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.13-08.06.40:452][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.09.13-08.06.40:461][  0]LogHAL: Display: Platform has ~ 8 GB [8456720384 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.09.13-08.06.40:461][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.09.13-08.06.40:461][  0]LogInit: Going up to parent DeviceProfile []
+[2018.09.13-08.06.40:462][  0]LogInit: Computer: THS70146
+[2018.09.13-08.06.40:462][  0]LogInit: User: ths70146
+[2018.09.13-08.06.40:462][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.09.13-08.06.40:462][  0]LogInit: High frequency timer resolution =2.531252 MHz
+[2018.09.13-08.06.40:463][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.09.13-08.06.40:463][  0]LogMemory: Platform Memory Stats for Windows
+[2018.09.13-08.06.40:463][  0]LogMemory: Process Physical Memory: 99.80 MB used, 99.80 MB peak
+[2018.09.13-08.06.40:463][  0]LogMemory: Process Virtual Memory: 83.35 MB used, 83.35 MB peak
+[2018.09.13-08.06.40:463][  0]LogMemory: Physical Memory: 4654.34 MB used,  3410.62 MB free, 8064.96 MB total
+[2018.09.13-08.06.40:463][  0]LogMemory: Virtual Memory: 4634.23 MB used,  3410.62 MB free, 134217728.00 MB total
+[2018.09.13-08.06.41:118][  0]LogInit: Using OS detected language (ja-JP).
+[2018.09.13-08.06.41:119][  0]LogInit: Using OS detected locale (ja-JP).
+[2018.09.13-08.06.41:119][  0]LogTextLocalizationManager: No specific localization for 'ja-JP' exists, so the 'ja' localization will be used.
+[2018.09.13-08.06.41:518][  0]LogStreaming: Display: Took  0.400s to InitEngineTextLocalization.
+[2018.09.13-08.06.41:519][  0]LogInit: Setting process to per monitor DPI aware
+[2018.09.13-08.06.41:577][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.09.13-08.06.41:577][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.09.13-08.06.42:055][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.13-08.06.42:055][  0]LogD3D11RHI: D3D11 adapters:
+[2018.09.13-08.06.42:133][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960M' (Feature Level 11_0)
+[2018.09.13-08.06.42:133][  0]LogD3D11RHI:       4065/0/4032 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.09.13-08.06.42:148][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2018.09.13-08.06.42:148][  0]LogD3D11RHI:       128/0/4032 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.09.13-08.06.42:151][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.09.13-08.06.42:151][  0]LogD3D11RHI:       0/0/4032 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.09.13-08.06.42:151][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.09.13-08.06.42:172][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.09.13-08.06.42:172][  0]LogD3D11RHI:     GPU DeviceId: 0x139b (for the marketing name, search the web for "GPU Device Id")
+[2018.09.13-08.06.42:172][  0]LogWindows: EnumDisplayDevices:
+[2018.09.13-08.06.42:172][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2018.09.13-08.06.42:173][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.09.13-08.06.42:173][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.09.13-08.06.42:173][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.09.13-08.06.42:173][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960M
+[2018.09.13-08.06.42:173][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.09.13-08.06.42:173][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.09.13-08.06.42:173][  0]LogRHI: Texture pool is 2846 MB (70% of 4065 MB)
+[2018.09.13-08.06.42:202][  0]LogD3D11RHI: Async texture creation enabled
+[2018.09.13-08.06.42:213][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.09.13-08.06.42:214][  0]LogShaderCompilers: Guid format shader working directory is 22 characters bigger than the processId version (../../../../../Puticon/Puti/Intermediate/Shaders/WorkingDirectory/1496/).
+[2018.09.13-08.06.42:214][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ths70146/AppData/Local/Temp/UnrealShaderWorkingDir/2CE28CD84DF91D2FFB15E49A88130BBF/'.
+[2018.09.13-08.06.42:667][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.09.13-08.06.42:683][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.09.13-08.06.42:699][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.09.13-08.06.42:714][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.09.13-08.06.42:732][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.09.13-08.06.42:748][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.09.13-08.06.42:762][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.09.13-08.06.42:781][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.09.13-08.06.42:789][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.09.13-08.06.42:872][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.13-08.06.42:872][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.13-08.06.42:872][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.13-08.06.42:872][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.13-08.06.42:872][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.13-08.06.42:872][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.13-08.06.42:872][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.13-08.06.42:872][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.13-08.06.42:872][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.13-08.06.42:872][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.13-08.06.42:872][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.13-08.06.42:872][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.13-08.06.42:872][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.13-08.06.42:872][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.13-08.06.42:872][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.13-08.06.42:872][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.13-08.06.42:872][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.13-08.06.42:872][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.13-08.06.42:876][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.09.13-08.06.42:945][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.13-08.06.42:945][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.13-08.06.42:973][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.13-08.06.42:973][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.13-08.06.42:992][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.09.13-08.06.43:007][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.09.13-08.06.43:023][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.09.13-08.06.43:040][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.09.13-08.06.43:050][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.09.13-08.06.43:050][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.09.13-08.06.43:147][  0]LogXGEController: Cleaning working directory: C:/Users/ths70146/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.09.13-08.06.43:148][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.09.13-08.06.43:148][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.09.13-08.06.43:148][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.09.13-08.06.44:100][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.09.13-08.06.44:975][  0]LogDerivedDataCache: Loaded boot cache 0.87s 71MB C:/Users/ths70146/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.13-08.06.44:978][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ths70146/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.09.13-08.06.44:978][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Puticon/Puti/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.09.13-08.06.44:978][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.09.13-08.06.44:978][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Puticon/Puti/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.09.13-08.06.44:978][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.09.13-08.06.45:001][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.09.13-08.06.45:032][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ths70146/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.09.13-08.06.45:032][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.09.13-08.06.45:032][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.09.13-08.06.45:054][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.09.13-08.06.45:055][  0]LogSlate: Using FreeType 2.6.0
+[2018.09.13-08.06.45:057][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.13-08.06.45:249][  0]LogAssetRegistry: FAssetRegistry took 0.0264 seconds to start up
+[2018.09.13-08.06.45:627][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.13-08.06.45:789][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.09.13-08.06.45:798][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.09.13-08.06.45:798][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.09.13-08.06.45:798][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.09.13-08.06.45:798][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.09.13-08.06.45:812][  0]LogNetVersion: Puti 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2802601270)
+[2018.09.13-08.06.46:377][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.103194 seconds
+[2018.09.13-08.06.46:383][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.09.13-08.06.46:383][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.09.13-08.06.46:383][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.09.13-08.06.49:166][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.09.13-08.06.49:191][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.09.13-08.06.49:191][  0]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1
+[2018.09.13-08.06.49:191][  0]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2018.09.13-08.06.49:191][  0]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2018.09.13-08.06.49:414][  0]SourceControl: ソースコントロールは無効です
+[2018.09.13-08.06.49:414][  0]SourceControl: ソースコントロールは無効です
+[2018.09.13-08.06.49:419][  0]SourceControl: ソースコントロールは無効です
+[2018.09.13-08.06.49:422][  0]SourceControl: ソースコントロールは無効です
+[2018.09.13-08.06.49:701][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.09.13-08.06.49:781][  0]LogOcInput: OculusInput pre-init called
+[2018.09.13-08.06.49:875][  0]LogEngine: Initializing Engine...
+[2018.09.13-08.06.49:876][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.13-08.06.49:879][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.13-08.06.49:879][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.13-08.06.49:879][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.13-08.06.49:879][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.13-08.06.50:125][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.09.13-08.06.50:153][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.09.13-08.06.50:167][  0]LogInit: XAudio2 using 'スピーカー / ヘッドホン (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.13-08.06.50:507][  0]LogInit: FAudioDevice initialized.
+[2018.09.13-08.06.50:508][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.09.13-08.06.50:717][  0]LogDerivedDataCache: Saved boot cache 0.21s 71MB C:/Users/ths70146/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.13-08.06.50:727][  0]LogInit: Texture streaming: Enabled
+[2018.09.13-08.06.50:809][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.09.13-08.06.50:830][  0]LogInit: Transaction tracking system initialized
+[2018.09.13-08.06.50:865][  0]BlueprintLog: New page: エディタの読み込み
+[2018.09.13-08.06.51:016][  0]LocalizationService: ローカライズのサービスが無効になりました
+[2018.09.13-08.06.51:367][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.09.13-08.06.51:367][  0]LogCook: Display: Mobile HDR setting 1
+[2018.09.13-08.06.51:367][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.09.13-08.06.51:367][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.13-08.06.51:367][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.13-08.06.51:367][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.13-08.06.51:367][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.13-08.06.51:607][  0]LogFileCache: Scanning file cache for directory 'C:/Puticon/Puti/Content/' took 0.02s
+[2018.09.13-08.06.51:607][  0]SourceControl: ソースコントロールは無効です
+[2018.09.13-08.06.51:608][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/UnrealEngine/UE_4.20/FeaturePacks/StarterContent.upack)
+[2018.09.13-08.06.51:613][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2018.09.13-08.06.51:616][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2018.09.13-08.06.51:678][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2018.09.13-08.06.51:679][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2018.09.13-08.06.51:680][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2018.09.13-08.06.51:681][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2018.09.13-08.06.51:720][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2018.09.13-08.06.51:720][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2018.09.13-08.06.51:721][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2018.09.13-08.06.51:722][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2018.09.13-08.06.51:723][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2018.09.13-08.06.51:724][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2018.09.13-08.06.51:725][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Audio/Collapse01.uasset"
+[2018.09.13-08.06.51:726][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Audio/Collapse02.uasset"
+[2018.09.13-08.06.51:727][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2018.09.13-08.06.51:728][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Audio/Explosion01.uasset"
+[2018.09.13-08.06.51:729][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Audio/Explosion02.uasset"
+[2018.09.13-08.06.51:729][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2018.09.13-08.06.51:731][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Audio/Fire01.uasset"
+[2018.09.13-08.06.51:731][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2018.09.13-08.06.51:733][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2018.09.13-08.06.51:734][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2018.09.13-08.06.51:735][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Audio/Light01.uasset"
+[2018.09.13-08.06.51:736][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2018.09.13-08.06.51:737][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Audio/Light02.uasset"
+[2018.09.13-08.06.51:737][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2018.09.13-08.06.51:738][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Audio/Smoke01.uasset"
+[2018.09.13-08.06.51:739][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2018.09.13-08.06.51:740][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2018.09.13-08.06.51:950][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2018.09.13-08.06.52:038][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2018.09.13-08.06.52:039][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2018.09.13-08.06.52:080][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2018.09.13-08.06.52:114][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2018.09.13-08.06.52:115][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Audio/Steam01.uasset"
+[2018.09.13-08.06.52:116][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2018.09.13-08.06.52:117][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2018.09.13-08.06.52:117][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2018.09.13-08.06.52:118][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2018.09.13-08.06.52:119][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2018.09.13-08.06.52:119][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2018.09.13-08.06.52:120][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2018.09.13-08.06.52:121][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2018.09.13-08.06.52:122][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2018.09.13-08.06.52:122][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2018.09.13-08.06.52:123][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2018.09.13-08.06.52:124][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2018.09.13-08.06.52:125][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2018.09.13-08.06.52:125][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2018.09.13-08.06.52:127][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2018.09.13-08.06.52:128][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2018.09.13-08.06.52:129][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2018.09.13-08.06.53:432][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2018.09.13-08.06.53:434][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../Puticon/Puti/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2018.09.13-08.06.53:452][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2018.09.13-08.06.53:453][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../Puticon/Puti/Content/StarterContent/Maps/Minimal_Default.umap"
+[2018.09.13-08.06.53:501][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2018.09.13-08.06.53:503][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../Puticon/Puti/Content/StarterContent/Maps/StarterMap.umap"
+[2018.09.13-08.06.53:759][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2018.09.13-08.06.53:760][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2018.09.13-08.06.53:760][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2018.09.13-08.06.53:761][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2018.09.13-08.06.53:762][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2018.09.13-08.06.53:763][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2018.09.13-08.06.53:763][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2018.09.13-08.06.53:764][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2018.09.13-08.06.53:765][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2018.09.13-08.06.53:766][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2018.09.13-08.06.53:766][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2018.09.13-08.06.53:767][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2018.09.13-08.06.53:768][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2018.09.13-08.06.53:769][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2018.09.13-08.06.53:769][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2018.09.13-08.06.53:770][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2018.09.13-08.06.53:771][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2018.09.13-08.06.53:772][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2018.09.13-08.06.53:772][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Materials/M_Glass.uasset"
+[2018.09.13-08.06.53:773][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2018.09.13-08.06.53:774][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2018.09.13-08.06.53:775][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2018.09.13-08.06.53:775][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2018.09.13-08.06.53:776][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2018.09.13-08.06.53:777][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2018.09.13-08.06.53:778][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2018.09.13-08.06.53:779][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2018.09.13-08.06.53:780][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2018.09.13-08.06.53:780][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2018.09.13-08.06.53:781][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2018.09.13-08.06.53:782][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2018.09.13-08.06.53:782][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2018.09.13-08.06.53:783][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2018.09.13-08.06.53:784][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2018.09.13-08.06.53:785][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2018.09.13-08.06.53:785][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2018.09.13-08.06.53:786][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2018.09.13-08.06.53:787][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2018.09.13-08.06.53:788][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2018.09.13-08.06.53:788][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2018.09.13-08.06.53:789][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2018.09.13-08.06.53:790][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2018.09.13-08.06.53:790][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2018.09.13-08.06.53:791][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2018.09.13-08.06.53:792][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2018.09.13-08.06.53:793][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Particles/P_Explosion.uasset"
+[2018.09.13-08.06.53:793][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Particles/P_Fire.uasset"
+[2018.09.13-08.06.53:795][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Particles/P_Smoke.uasset"
+[2018.09.13-08.06.53:795][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Particles/P_Sparks.uasset"
+[2018.09.13-08.06.53:795][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2018.09.13-08.06.53:797][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2018.09.13-08.06.53:798][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2018.09.13-08.06.53:798][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2018.09.13-08.06.53:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2018.09.13-08.06.53:800][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2018.09.13-08.06.53:800][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2018.09.13-08.06.53:801][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2018.09.13-08.06.53:802][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2018.09.13-08.06.53:802][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2018.09.13-08.06.53:803][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2018.09.13-08.06.53:804][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Props/MaterialSphere.uasset"
+[2018.09.13-08.06.53:804][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Props/SM_Bush.uasset"
+[2018.09.13-08.06.53:805][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Props/SM_Chair.uasset"
+[2018.09.13-08.06.53:805][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2018.09.13-08.06.53:806][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Props/SM_Couch.uasset"
+[2018.09.13-08.06.53:806][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Props/SM_Door.uasset"
+[2018.09.13-08.06.53:807][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2018.09.13-08.06.53:808][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2018.09.13-08.06.53:808][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2018.09.13-08.06.53:809][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2018.09.13-08.06.53:846][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2018.09.13-08.06.53:847][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2018.09.13-08.06.53:848][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2018.09.13-08.06.53:848][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Props/SM_Rock.uasset"
+[2018.09.13-08.06.53:849][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Props/SM_Shelf.uasset"
+[2018.09.13-08.06.53:850][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Props/SM_Stairs.uasset"
+[2018.09.13-08.06.53:851][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Props/SM_Statue.uasset"
+[2018.09.13-08.06.53:852][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Props/SM_TableRound.uasset"
+[2018.09.13-08.06.53:853][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2018.09.13-08.06.53:853][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2018.09.13-08.06.53:854][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2018.09.13-08.06.53:855][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2018.09.13-08.06.53:856][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2018.09.13-08.06.53:856][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2018.09.13-08.06.53:857][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2018.09.13-08.06.53:858][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2018.09.13-08.06.53:859][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2018.09.13-08.06.53:859][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2018.09.13-08.06.53:860][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2018.09.13-08.06.53:861][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2018.09.13-08.06.53:861][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2018.09.13-08.06.53:862][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2018.09.13-08.06.53:863][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2018.09.13-08.06.53:864][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2018.09.13-08.06.53:865][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2018.09.13-08.06.53:866][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2018.09.13-08.06.53:866][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2018.09.13-08.06.53:867][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2018.09.13-08.06.53:868][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2018.09.13-08.06.53:869][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2018.09.13-08.06.53:870][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2018.09.13-08.06.53:871][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2018.09.13-08.06.53:887][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2018.09.13-08.06.53:888][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2018.09.13-08.06.53:889][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2018.09.13-08.06.53:889][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2018.09.13-08.06.53:890][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2018.09.13-08.06.53:891][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2018.09.13-08.06.53:891][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2018.09.13-08.06.53:892][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2018.09.13-08.06.53:977][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2018.09.13-08.06.54:072][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2018.09.13-08.06.54:172][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2018.09.13-08.06.54:289][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2018.09.13-08.06.54:849][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2018.09.13-08.06.54:944][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2018.09.13-08.06.55:069][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2018.09.13-08.06.55:163][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2018.09.13-08.06.55:327][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2018.09.13-08.06.55:417][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2018.09.13-08.06.55:520][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2018.09.13-08.06.55:616][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2018.09.13-08.06.56:448][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2018.09.13-08.06.56:449][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2018.09.13-08.06.56:451][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2018.09.13-08.06.56:452][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2018.09.13-08.06.56:453][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2018.09.13-08.06.56:454][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2018.09.13-08.06.56:455][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2018.09.13-08.06.56:534][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2018.09.13-08.06.56:535][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2018.09.13-08.06.56:667][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2018.09.13-08.06.56:680][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2018.09.13-08.06.56:842][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2018.09.13-08.06.56:874][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2018.09.13-08.06.56:911][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2018.09.13-08.06.56:983][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2018.09.13-08.06.57:050][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2018.09.13-08.06.57:938][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2018.09.13-08.06.58:067][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2018.09.13-08.06.58:180][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2018.09.13-08.06.58:275][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2018.09.13-08.06.58:467][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2018.09.13-08.06.58:978][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2018.09.13-08.06.59:045][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2018.09.13-08.06.59:116][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2018.09.13-08.06.59:212][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2018.09.13-08.06.59:213][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2018.09.13-08.06.59:257][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2018.09.13-08.06.59:259][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Door_M.uasset"
+[2018.09.13-08.06.59:275][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Door_N.uasset"
+[2018.09.13-08.06.59:277][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2018.09.13-08.06.59:309][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2018.09.13-08.06.59:312][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2018.09.13-08.06.59:314][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2018.09.13-08.06.59:316][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2018.09.13-08.06.59:330][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2018.09.13-08.06.59:332][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2018.09.13-08.06.59:468][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2018.09.13-08.06.59:600][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2018.09.13-08.06.59:714][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2018.09.13-08.06.59:791][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2018.09.13-08.07.02:517][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2018.09.13-08.07.02:616][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2018.09.13-08.07.02:630][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2018.09.13-08.07.02:677][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2018.09.13-08.07.02:795][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2018.09.13-08.07.02:907][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2018.09.13-08.07.03:020][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2018.09.13-08.07.03:852][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2018.09.13-08.07.03:882][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2018.09.13-08.07.03:992][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2018.09.13-08.07.04:070][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2018.09.13-08.07.04:111][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2018.09.13-08.07.04:168][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2018.09.13-08.07.04:261][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2018.09.13-08.07.04:286][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2018.09.13-08.07.04:344][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2018.09.13-08.07.04:451][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2018.09.13-08.07.05:345][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2018.09.13-08.07.05:414][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2018.09.13-08.07.05:512][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2018.09.13-08.07.05:622][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2018.09.13-08.07.05:761][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2018.09.13-08.07.06:604][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2018.09.13-08.07.06:710][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2018.09.13-08.07.06:712][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2018.09.13-08.07.06:727][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2018.09.13-08.07.06:728][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2018.09.13-08.07.06:755][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2018.09.13-08.07.06:757][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2018.09.13-08.07.06:759][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2018.09.13-08.07.06:762][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2018.09.13-08.07.06:764][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2018.09.13-08.07.06:767][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2018.09.13-08.07.06:786][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2018.09.13-08.07.06:787][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2018.09.13-08.07.06:788][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2018.09.13-08.07.06:790][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2018.09.13-08.07.06:792][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2018.09.13-08.07.06:795][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2018.09.13-08.07.06:812][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2018.09.13-08.07.06:827][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Water_M.uasset"
+[2018.09.13-08.07.06:847][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Water_N.uasset"
+[2018.09.13-08.07.06:890][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2018.09.13-08.07.06:933][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2018.09.13-08.07.06:959][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2018.09.13-08.07.07:025][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2018.09.13-08.07.07:097][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2018.09.13-08.07.08:606][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2018.09.13-08.07.09:370][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2018.09.13-08.07.09:438][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2018.09.13-08.07.09:475][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../Puticon/Puti/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2018.09.13-08.07.10:188][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2018.09.13-08.07.10:301][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Architecture/Floor_400x400" FILE="../../../../../Puticon/Puti/Content/StarterContent/Architecture/Floor_400x400.uasset" SILENT=true
+[2018.09.13-08.07.10:419][  0]LogSavePackage: Moving '../../../../../Puticon/Puti/Saved/Floor_400x400F2619D754FA466C2689B9FA555BBC74D.tmp' to '../../../../../Puticon/Puti/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2018.09.13-08.07.10:423][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2018.09.13-08.07.10:425][  0]Cmd: MAP LOAD FILE="../../../../../Puticon/Puti/Content/Main/Maps/TitleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.13-08.07.10:426][  0]LightingResults: New page: ライティングのビルド
+[2018.09.13-08.07.10:432][  0]MapCheck: New page: マップをチェック
+[2018.09.13-08.07.10:432][  0]LightingResults: New page: <何も選択されていません>
+[2018.09.13-08.07.10:981][  0]LogAIModule: Creating AISystem for world TitleMap
+[2018.09.13-08.07.10:995][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Main/Maps/MainGame) is flushing async loading
+[2018.09.13-08.07.10:995][  0]LogStreaming: Display: Flushing async loaders.
+[2018.09.13-08.07.15:137][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Main/Maps/ResultMap) is flushing async loading
+[2018.09.13-08.07.15:274][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.13-08.07.15:329][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.13-08.07.15:454][  0]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 124.895ミリ秒かかりました。
+[2018.09.13-08.07.15:455][  0]LogFileHelpers: Loading map 'TitleMap' took 5.030
+[2018.09.13-08.07.16:132][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.13-08.07.16:151][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.13-08.07.16:165][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.13-08.07.16:176][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.13-08.07.16:197][  0]LogCollectionManager: Loaded 0 collections in 0.001701 seconds
+[2018.09.13-08.07.16:255][  0]LogFileCache: Scanning file cache for directory 'C:/Puticon/Puti/Saved/Collections/' took 0.01s
+[2018.09.13-08.07.16:255][  0]LogFileCache: Scanning file cache for directory 'C:/Puticon/Puti/Content/Developers/ths70146/Collections/' took 0.01s
+[2018.09.13-08.07.16:255][  0]LogFileCache: Scanning file cache for directory 'C:/Puticon/Puti/Content/Collections/' took 0.01s
+[2018.09.13-08.07.16:255][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.09.13-08.07.16:264][  0]LogContentBrowser: Native class hierarchy populated in 0.0093 seconds. Added 2572 classes and 603 folders.
+[2018.09.13-08.07.16:274][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.09.13-08.07.16:498][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.09.13-08.07.16:513][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.09.13-08.07.16:703][  0]LogSlate: Took 0.063025 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.09.13-08.07.16:949][  0]LogSlate: Took 0.245938 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Regular.otf' (707K)
+[2018.09.13-08.07.17:029][  0]LogSlate: Took 0.078526 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Bold.otf' (698K)
+[2018.09.13-08.07.17:033][  0]LogSlate: Took 0.004007 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.09.13-08.07.17:045][  0]LogSlate: Took 0.004201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.09.13-08.07.17:208][  0]LogRenderer: Reallocating scene render targets to support 1208x600 Format 10 NumSamples 1 (Frame:1).
+[2018.09.13-08.07.17:280][  0]LogSlate: Took 0.022018 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.13-08.07.17:445][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.09.13-08.07.17:445][  0]LogLoad: (Engine Initialization) Total time: 40.96 seconds
+[2018.09.13-08.07.17:445][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.09.13-08.07.17:479][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft IME).
+[2018.09.13-08.07.17:629][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2018.09.13-08.07.17:749][  2]LogAssetRegistry: Asset discovery search completed in 32.5228 seconds
+[2018.09.13-08.07.17:752][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.09.13-08.07.17:752][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000111 seconds (updated 0 objects)
+[2018.09.13-08.07.42:497][483]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.13-08.07.48:263][822]LogSlate: Took 0.000253 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.13-08.07.48:271][822]LogSlate: Took 0.007162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Light.otf' (713K)
+[2018.09.13-08.07.48:281][822]LogAssetEditorManager: Opening Asset editor for World /Game/Main/Maps/MainGame.MainGame
+[2018.09.13-08.07.48:309][822]Cmd: MAP LOAD FILE="../../../../../Puticon/Puti/Content/Main/Maps/MainGame.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.13-08.07.48:309][822]LightingResults: New page: ライティングのビルド
+[2018.09.13-08.07.48:310][822]LoadErrors: New page: マップをロード中: MainGame.umap
+[2018.09.13-08.07.48:311][822]MapCheck: New page: マップをチェック
+[2018.09.13-08.07.48:311][822]LightingResults: New page: <何も選択されていません>
+[2018.09.13-08.07.48:340][822]LogAIModule: Creating AISystem for world MainGame
+[2018.09.13-08.07.48:410][822]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.13-08.07.48:446][822]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.13-08.07.48:569][822]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 123.606ミリ秒かかりました。
+[2018.09.13-08.07.48:570][822]LogFileHelpers: Loading map 'MainGame' took 0.263
+[2018.09.13-08.07.57:996][342]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.13-08.07.58:211][352]LogSlate: Window 'Puti - Unreal Editor' being destroyed
+[2018.09.13-08.07.58:215][352]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft IME).
+[2018.09.13-08.07.58:437][353]Cmd: QUIT_EDITOR
+[2018.09.13-08.07.58:502][353]LogExit: Preparing to exit.
